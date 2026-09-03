@@ -1,0 +1,345 @@
+rule_id,dataset,company_id,year,field,issue,severity
+DQ-05,profitandloss,ADANIENSOL,2024-03,opm_percentage,OPM difference=4.39,WARNING
+DQ-05,profitandloss,AXISBANK,2013-03,opm_percentage,OPM difference=1322.42,WARNING
+DQ-05,profitandloss,AXISBANK,2014-03,opm_percentage,OPM difference=2275.53,WARNING
+DQ-05,profitandloss,AXISBANK,2015-03,opm_percentage,OPM difference=3065.64,WARNING
+DQ-05,profitandloss,AXISBANK,2016-03,opm_percentage,OPM difference=3433.39,WARNING
+DQ-05,profitandloss,AXISBANK,2017-03,opm_percentage,OPM difference=5768.45,WARNING
+DQ-05,profitandloss,AXISBANK,2018-03,opm_percentage,OPM difference=10340.12,WARNING
+DQ-05,profitandloss,AXISBANK,2019-03,opm_percentage,OPM difference=5496.39,WARNING
+DQ-05,profitandloss,AXISBANK,2020-03,opm_percentage,OPM difference=9914.98,WARNING
+DQ-05,profitandloss,AXISBANK,2021-03,opm_percentage,OPM difference=2560.12,WARNING
+DQ-05,profitandloss,AXISBANK,2022-03,opm_percentage,OPM difference=3125.53,WARNING
+DQ-05,profitandloss,AXISBANK,2023-03,opm_percentage,OPM difference=13822.84,WARNING
+DQ-05,profitandloss,AXISBANK,2024-03,opm_percentage,OPM difference=11917.31,WARNING
+DQ-05,profitandloss,AXISBANK,TTM,opm_percentage,OPM difference=9024.06,WARNING
+DQ-05,profitandloss,BAJFINANCE,2015-03,opm_percentage,OPM difference=1334.51,WARNING
+DQ-05,profitandloss,BAJFINANCE,2016-03,opm_percentage,OPM difference=1953.75,WARNING
+DQ-05,profitandloss,BAJFINANCE,2017-03,opm_percentage,OPM difference=2834.40,WARNING
+DQ-05,profitandloss,BAJFINANCE,2018-03,opm_percentage,OPM difference=3902.72,WARNING
+DQ-05,profitandloss,BAJFINANCE,2019-03,opm_percentage,OPM difference=6280.50,WARNING
+DQ-05,profitandloss,BAJFINANCE,2020-03,opm_percentage,OPM difference=7573.27,WARNING
+DQ-05,profitandloss,BAJFINANCE,2021-03,opm_percentage,OPM difference=6273.36,WARNING
+DQ-05,profitandloss,BAJFINANCE,2022-03,opm_percentage,OPM difference=9868.45,WARNING
+DQ-05,profitandloss,BAJFINANCE,2023-03,opm_percentage,OPM difference=15987.35,WARNING
+DQ-05,profitandloss,BAJFINANCE,2024-03,opm_percentage,OPM difference=19957.71,WARNING
+DQ-05,profitandloss,BAJFINANCE,TTM,opm_percentage,OPM difference=21386.58,WARNING
+DQ-05,profitandloss,BANKBARODA,2013-03,opm_percentage,OPM difference=975.95,WARNING
+DQ-05,profitandloss,BANKBARODA,2014-03,opm_percentage,OPM difference=779.22,WARNING
+DQ-05,profitandloss,BANKBARODA,2015-03,opm_percentage,OPM difference=872.02,WARNING
+DQ-05,profitandloss,BANKBARODA,2016-03,opm_percentage,OPM difference=11755.44,WARNING
+DQ-05,profitandloss,BANKBARODA,2017-03,opm_percentage,OPM difference=4415.28,WARNING
+DQ-05,profitandloss,BANKBARODA,2018-03,opm_percentage,OPM difference=9253.65,WARNING
+DQ-05,profitandloss,BANKBARODA,2019-03,opm_percentage,OPM difference=5462.79,WARNING
+DQ-05,profitandloss,BANKBARODA,2020-03,opm_percentage,OPM difference=11779.44,WARNING
+DQ-05,profitandloss,BANKBARODA,2021-03,opm_percentage,OPM difference=7008.23,WARNING
+DQ-05,profitandloss,BANKBARODA,2022-03,opm_percentage,OPM difference=2999.12,WARNING
+DQ-05,profitandloss,BANKBARODA,2023-03,opm_percentage,OPM difference=6288.55,WARNING
+DQ-05,profitandloss,BANKBARODA,2024-03,opm_percentage,OPM difference=4064.51,WARNING
+DQ-05,profitandloss,BANKBARODA,TTM,opm_percentage,OPM difference=3488.58,WARNING
+DQ-05,profitandloss,CANBK,2013-03,opm_percentage,OPM difference=633.82,WARNING
+DQ-05,profitandloss,CANBK,2014-03,opm_percentage,OPM difference=696.35,WARNING
+DQ-05,profitandloss,CANBK,2015-03,opm_percentage,OPM difference=644.51,WARNING
+DQ-05,profitandloss,CANBK,2016-03,opm_percentage,OPM difference=8048.38,WARNING
+DQ-05,profitandloss,CANBK,2017-03,opm_percentage,OPM difference=5812.85,WARNING
+DQ-05,profitandloss,CANBK,2018-03,opm_percentage,OPM difference=13411.87,WARNING
+DQ-05,profitandloss,CANBK,2019-03,opm_percentage,OPM difference=11646.73,WARNING
+DQ-05,profitandloss,CANBK,2020-03,opm_percentage,OPM difference=12920.88,WARNING
+DQ-05,profitandloss,CANBK,2021-03,opm_percentage,OPM difference=18428.83,WARNING
+DQ-05,profitandloss,CANBK,2022-03,opm_percentage,OPM difference=13715.39,WARNING
+DQ-05,profitandloss,CANBK,2023-03,opm_percentage,OPM difference=9926.80,WARNING
+DQ-05,profitandloss,CANBK,2024-03,opm_percentage,OPM difference=7786.75,WARNING
+DQ-05,profitandloss,CANBK,TTM,opm_percentage,OPM difference=9025.23,WARNING
+DQ-05,profitandloss,CHOLAFIN,2013-03,opm_percentage,OPM difference=445.23,WARNING
+DQ-05,profitandloss,CHOLAFIN,2014-03,opm_percentage,OPM difference=549.58,WARNING
+DQ-05,profitandloss,CHOLAFIN,2015-03,opm_percentage,OPM difference=667.44,WARNING
+DQ-05,profitandloss,CHOLAFIN,2016-03,opm_percentage,OPM difference=868.96,WARNING
+DQ-05,profitandloss,CHOLAFIN,2017-03,opm_percentage,OPM difference=1114.84,WARNING
+DQ-05,profitandloss,CHOLAFIN,2018-03,opm_percentage,OPM difference=1424.90,WARNING
+DQ-05,profitandloss,CHOLAFIN,2019-03,opm_percentage,OPM difference=1865.04,WARNING
+DQ-05,profitandloss,CHOLAFIN,2020-03,opm_percentage,OPM difference=1671.21,WARNING
+DQ-05,profitandloss,CHOLAFIN,2021-03,opm_percentage,OPM difference=2063.60,WARNING
+DQ-05,profitandloss,CHOLAFIN,2022-03,opm_percentage,OPM difference=2895.17,WARNING
+DQ-05,profitandloss,CHOLAFIN,2023-03,opm_percentage,OPM difference=3486.90,WARNING
+DQ-05,profitandloss,CHOLAFIN,2024-03,opm_percentage,OPM difference=4519.90,WARNING
+DQ-05,profitandloss,CHOLAFIN,TTM,opm_percentage,OPM difference=5146.33,WARNING
+DQ-05,profitandloss,CIPLA,2013-03,opm_percentage,OPM difference=2140.74,WARNING
+DQ-05,profitandloss,CIPLA,2014-03,opm_percentage,OPM difference=2068.10,WARNING
+DQ-05,profitandloss,CIPLA,2015-03,opm_percentage,OPM difference=2082.06,WARNING
+DQ-05,profitandloss,CIPLA,2016-03,opm_percentage,OPM difference=2397.98,WARNING
+DQ-05,profitandloss,CIPLA,2017-03,opm_percentage,OPM difference=2413.34,WARNING
+DQ-05,profitandloss,CIPLA,2018-03,opm_percentage,OPM difference=2744.65,WARNING
+DQ-05,profitandloss,CIPLA,2019-03,opm_percentage,OPM difference=3015.93,WARNING
+DQ-05,profitandloss,CIPLA,2020-03,opm_percentage,OPM difference=3124.71,WARNING
+DQ-05,profitandloss,CIPLA,2021-03,opm_percentage,OPM difference=4174.20,WARNING
+DQ-05,profitandloss,CIPLA,2022-03,opm_percentage,OPM difference=4473.92,WARNING
+DQ-05,profitandloss,CIPLA,2023-03,opm_percentage,OPM difference=4949.09,WARNING
+DQ-05,profitandloss,CIPLA,2024-03,opm_percentage,OPM difference=6215.41,WARNING
+DQ-05,profitandloss,CIPLA,TTM,opm_percentage,OPM difference=6831.60,WARNING
+DQ-05,profitandloss,COALINDIA,2013-03,opm_percentage,OPM difference=18013.48,WARNING
+DQ-05,profitandloss,COALINDIA,2014-03,opm_percentage,OPM difference=17691.16,WARNING
+DQ-05,profitandloss,COALINDIA,2015-03,opm_percentage,OPM difference=17266.40,WARNING
+DQ-05,profitandloss,COALINDIA,2016-03,opm_percentage,OPM difference=18638.04,WARNING
+DQ-05,profitandloss,COALINDIA,2017-03,opm_percentage,OPM difference=12363.93,WARNING
+DQ-05,profitandloss,COALINDIA,2018-03,opm_percentage,OPM difference=9198.90,WARNING
+DQ-05,profitandloss,COALINDIA,2019-03,opm_percentage,OPM difference=24932.11,WARNING
+DQ-05,profitandloss,COALINDIA,2020-03,opm_percentage,OPM difference=21503.46,WARNING
+DQ-05,profitandloss,COALINDIA,2021-03,opm_percentage,OPM difference=18548.69,WARNING
+DQ-05,profitandloss,COALINDIA,2022-03,opm_percentage,OPM difference=24643.53,WARNING
+DQ-05,profitandloss,COALINDIA,2023-03,opm_percentage,OPM difference=44163.99,WARNING
+DQ-05,profitandloss,COALINDIA,2024-03,opm_percentage,OPM difference=47904.71,WARNING
+DQ-05,profitandloss,COALINDIA,TTM,opm_percentage,OPM difference=46543.22,WARNING
+DQ-05,profitandloss,HDFCBANK,2013-03,opm_percentage,OPM difference=3498.78,WARNING
+DQ-05,profitandloss,HDFCBANK,2014-03,opm_percentage,OPM difference=5570.26,WARNING
+DQ-05,profitandloss,HDFCBANK,2015-03,opm_percentage,OPM difference=7182.10,WARNING
+DQ-05,profitandloss,HDFCBANK,2016-03,opm_percentage,OPM difference=9005.25,WARNING
+DQ-05,profitandloss,HDFCBANK,2017-03,opm_percentage,OPM difference=11341.44,WARNING
+DQ-05,profitandloss,HDFCBANK,2018-03,opm_percentage,OPM difference=13339.37,WARNING
+DQ-05,profitandloss,HDFCBANK,2019-03,opm_percentage,OPM difference=16558.85,WARNING
+DQ-05,profitandloss,HDFCBANK,2020-03,opm_percentage,OPM difference=14555.80,WARNING
+DQ-05,profitandloss,HDFCBANK,2021-03,opm_percentage,OPM difference=16807.19,WARNING
+DQ-05,profitandloss,HDFCBANK,2022-03,opm_percentage,OPM difference=20753.39,WARNING
+DQ-05,profitandloss,HDFCBANK,2023-03,opm_percentage,OPM difference=29895.08,WARNING
+DQ-05,profitandloss,HDFCBANK,2024-03,opm_percentage,OPM difference=44746.41,WARNING
+DQ-05,profitandloss,HDFCBANK,TTM,opm_percentage,OPM difference=57649.61,WARNING
+DQ-05,profitandloss,HDFCLIFE,2013-03,opm_percentage,OPM difference=428.73,WARNING
+DQ-05,profitandloss,HDFCLIFE,2014-03,opm_percentage,OPM difference=508.52,WARNING
+DQ-05,profitandloss,HDFCLIFE,2015-03,opm_percentage,OPM difference=777.21,WARNING
+DQ-05,profitandloss,HDFCLIFE,2016-03,opm_percentage,OPM difference=858.26,WARNING
+DQ-05,profitandloss,HDFCLIFE,2017-03,opm_percentage,OPM difference=875.17,WARNING
+DQ-05,profitandloss,HDFCLIFE,2018-03,opm_percentage,OPM difference=977.33,WARNING
+DQ-05,profitandloss,HDFCLIFE,2019-03,opm_percentage,OPM difference=1118.13,WARNING
+DQ-05,profitandloss,HDFCLIFE,2020-03,opm_percentage,OPM difference=1044.88,WARNING
+DQ-05,profitandloss,HDFCLIFE,2021-03,opm_percentage,OPM difference=1136.73,WARNING
+DQ-05,profitandloss,HDFCLIFE,2022-03,opm_percentage,OPM difference=679.16,WARNING
+DQ-05,profitandloss,HDFCLIFE,2023-03,opm_percentage,OPM difference=19.89,WARNING
+DQ-05,profitandloss,HDFCLIFE,2024-03,opm_percentage,OPM difference=431.52,WARNING
+DQ-05,profitandloss,HDFCLIFE,TTM,opm_percentage,OPM difference=625.72,WARNING
+DQ-05,profitandloss,HEROMOTOCO,2014-03,opm_percentage,OPM difference=3467.06,WARNING
+DQ-05,profitandloss,HEROMOTOCO,2015-03,opm_percentage,OPM difference=3432.78,WARNING
+DQ-05,profitandloss,HEROMOTOCO,2016-03,opm_percentage,OPM difference=4339.55,WARNING
+DQ-05,profitandloss,HEROMOTOCO,2017-03,opm_percentage,OPM difference=4501.03,WARNING
+DQ-05,profitandloss,HEROMOTOCO,2018-03,opm_percentage,OPM difference=5250.43,WARNING
+DQ-05,profitandloss,HEROMOTOCO,2019-03,opm_percentage,OPM difference=4939.79,WARNING
+DQ-05,profitandloss,HEROMOTOCO,2020-03,opm_percentage,OPM difference=3983.91,WARNING
+DQ-05,profitandloss,HEROMOTOCO,2021-03,opm_percentage,OPM difference=3971.10,WARNING
+DQ-05,profitandloss,HEROMOTOCO,2022-03,opm_percentage,OPM difference=3167.02,WARNING
+DQ-05,profitandloss,HEROMOTOCO,2023-03,opm_percentage,OPM difference=4011.00,WARNING
+DQ-05,profitandloss,HEROMOTOCO,2024-03,opm_percentage,OPM difference=5148.85,WARNING
+DQ-05,profitandloss,HEROMOTOCO,TTM,opm_percentage,OPM difference=5474.87,WARNING
+DQ-05,profitandloss,HINDALCO,2013-03,opm_percentage,OPM difference=7608.60,WARNING
+DQ-05,profitandloss,HINDALCO,2014-03,opm_percentage,OPM difference=7933.15,WARNING
+DQ-05,profitandloss,HINDALCO,2015-03,opm_percentage,OPM difference=8752.48,WARNING
+DQ-05,profitandloss,HINDALCO,2016-03,opm_percentage,OPM difference=7685.88,WARNING
+DQ-05,profitandloss,HINDALCO,2017-03,opm_percentage,OPM difference=12229.29,WARNING
+DQ-05,profitandloss,HINDALCO,2018-03,opm_percentage,OPM difference=13606.89,WARNING
+DQ-05,profitandloss,HINDALCO,2019-03,opm_percentage,OPM difference=15422.88,WARNING
+DQ-05,profitandloss,HINDALCO,2020-03,opm_percentage,OPM difference=14218.11,WARNING
+DQ-05,profitandloss,HINDALCO,2021-03,opm_percentage,OPM difference=17472.30,WARNING
+DQ-05,profitandloss,HINDALCO,2022-03,opm_percentage,OPM difference=28261.53,WARNING
+DQ-05,profitandloss,HINDALCO,2023-03,opm_percentage,OPM difference=22576.15,WARNING
+DQ-05,profitandloss,HINDALCO,2024-03,opm_percentage,OPM difference=23783.05,WARNING
+DQ-05,profitandloss,HINDALCO,TTM,opm_percentage,OPM difference=27843.47,WARNING
+DQ-05,profitandloss,HINDUNILVR,2013-03,opm_percentage,OPM difference=4135.63,WARNING
+DQ-05,profitandloss,HINDUNILVR,2014-03,opm_percentage,OPM difference=4675.28,WARNING
+DQ-05,profitandloss,HINDUNILVR,2015-03,opm_percentage,OPM difference=5328.93,WARNING
+DQ-05,profitandloss,HINDUNILVR,2016-03,opm_percentage,OPM difference=5828.36,WARNING
+DQ-05,profitandloss,HINDUNILVR,2017-03,opm_percentage,OPM difference=6247.08,WARNING
+DQ-05,profitandloss,HINDUNILVR,2018-03,opm_percentage,OPM difference=7420.10,WARNING
+DQ-05,profitandloss,HINDUNILVR,2019-03,opm_percentage,OPM difference=8802.59,WARNING
+DQ-05,profitandloss,HINDUNILVR,2020-03,opm_percentage,OPM difference=9785.79,WARNING
+DQ-05,profitandloss,HINDUNILVR,2021-03,opm_percentage,OPM difference=11550.72,WARNING
+DQ-05,profitandloss,HINDUNILVR,2022-03,opm_percentage,OPM difference=12781.51,WARNING
+DQ-05,profitandloss,HINDUNILVR,2023-03,opm_percentage,OPM difference=14070.35,WARNING
+DQ-05,profitandloss,HINDUNILVR,2024-03,opm_percentage,OPM difference=14582.68,WARNING
+DQ-05,profitandloss,HINDUNILVR,TTM,opm_percentage,OPM difference=14682.55,WARNING
+DQ-05,profitandloss,ICICIBANK,2013-03,opm_percentage,OPM difference=15155.59,WARNING
+DQ-05,profitandloss,ICICIBANK,2014-03,opm_percentage,OPM difference=13150.40,WARNING
+DQ-05,profitandloss,ICICIBANK,2015-03,opm_percentage,OPM difference=16190.53,WARNING
+DQ-05,profitandloss,ICICIBANK,2016-03,opm_percentage,OPM difference=27043.12,WARNING
+DQ-05,profitandloss,ICICIBANK,2017-03,opm_percentage,OPM difference=37841.76,WARNING
+DQ-05,profitandloss,ICICIBANK,2018-03,opm_percentage,OPM difference=45023.12,WARNING
+DQ-05,profitandloss,ICICIBANK,2019-03,opm_percentage,OPM difference=51087.38,WARNING
+DQ-05,profitandloss,ICICIBANK,2020-03,opm_percentage,OPM difference=45290.62,WARNING
+DQ-05,profitandloss,ICICIBANK,2021-03,opm_percentage,OPM difference=44907.41,WARNING
+DQ-05,profitandloss,ICICIBANK,2022-03,opm_percentage,OPM difference=26642.69,WARNING
+DQ-05,profitandloss,ICICIBANK,2023-03,opm_percentage,OPM difference=17413.57,WARNING
+DQ-05,profitandloss,ICICIBANK,2024-03,opm_percentage,OPM difference=14214.41,WARNING
+DQ-05,profitandloss,ICICIBANK,TTM,opm_percentage,OPM difference=31644.63,WARNING
+DQ-05,profitandloss,ICICIGI,2013-03,opm_percentage,OPM difference=282.46,WARNING
+DQ-05,profitandloss,ICICIGI,2014-03,opm_percentage,OPM difference=330.19,WARNING
+DQ-05,profitandloss,ICICIGI,2015-03,opm_percentage,OPM difference=326.24,WARNING
+DQ-05,profitandloss,ICICIGI,2016-03,opm_percentage,OPM difference=676.66,WARNING
+DQ-05,profitandloss,ICICIGI,2017-03,opm_percentage,OPM difference=831.22,WARNING
+DQ-05,profitandloss,ICICIGI,2018-03,opm_percentage,OPM difference=365.79,WARNING
+DQ-05,profitandloss,ICICIGI,2019-03,opm_percentage,OPM difference=1583.95,WARNING
+DQ-05,profitandloss,ICICIGI,2020-03,opm_percentage,OPM difference=1687.39,WARNING
+DQ-05,profitandloss,ICICIGI,2021-03,opm_percentage,OPM difference=1989.03,WARNING
+DQ-05,profitandloss,ICICIGI,2022-03,opm_percentage,OPM difference=922.34,WARNING
+DQ-05,profitandloss,ICICIGI,2023-03,opm_percentage,OPM difference=1171.07,WARNING
+DQ-05,profitandloss,ICICIGI,2024-03,opm_percentage,OPM difference=2489.58,WARNING
+DQ-05,profitandloss,ICICIGI,TTM,opm_percentage,OPM difference=3277.43,WARNING
+DQ-05,profitandloss,ICICIPRULI,2013-03,opm_percentage,OPM difference=648.72,WARNING
+DQ-05,profitandloss,ICICIPRULI,2014-03,opm_percentage,OPM difference=1410.87,WARNING
+DQ-05,profitandloss,ICICIPRULI,2015-03,opm_percentage,OPM difference=1559.80,WARNING
+DQ-05,profitandloss,ICICIPRULI,2016-03,opm_percentage,OPM difference=1750.83,WARNING
+DQ-05,profitandloss,ICICIPRULI,2017-03,opm_percentage,OPM difference=1710.78,WARNING
+DQ-05,profitandloss,ICICIPRULI,2018-03,opm_percentage,OPM difference=1675.56,WARNING
+DQ-05,profitandloss,ICICIPRULI,2019-03,opm_percentage,OPM difference=442.30,WARNING
+DQ-05,profitandloss,ICICIPRULI,2020-03,opm_percentage,OPM difference=420.52,WARNING
+DQ-05,profitandloss,ICICIPRULI,2021-03,opm_percentage,OPM difference=490.47,WARNING
+DQ-05,profitandloss,ICICIPRULI,2022-03,opm_percentage,OPM difference=2266.40,WARNING
+DQ-05,profitandloss,ICICIPRULI,2023-03,opm_percentage,OPM difference=1860.48,WARNING
+DQ-05,profitandloss,ICICIPRULI,2024-03,opm_percentage,OPM difference=1931.03,WARNING
+DQ-05,profitandloss,ICICIPRULI,TTM,opm_percentage,OPM difference=221.41,WARNING
+DQ-05,profitandloss,INDUSINDBK,2013-03,opm_percentage,OPM difference=258.12,WARNING
+DQ-05,profitandloss,INDUSINDBK,2014-03,opm_percentage,OPM difference=304.05,WARNING
+DQ-05,profitandloss,INDUSINDBK,2015-03,opm_percentage,OPM difference=255.67,WARNING
+DQ-05,profitandloss,INDUSINDBK,2016-03,opm_percentage,OPM difference=293.72,WARNING
+DQ-05,profitandloss,INDUSINDBK,2017-03,opm_percentage,OPM difference=339.54,WARNING
+DQ-05,profitandloss,INDUSINDBK,2018-03,opm_percentage,OPM difference=904.07,WARNING
+DQ-05,profitandloss,INDUSINDBK,2019-03,opm_percentage,OPM difference=478.70,WARNING
+DQ-05,profitandloss,INDUSINDBK,2020-03,opm_percentage,OPM difference=596.81,WARNING
+DQ-05,profitandloss,INDUSINDBK,2021-03,opm_percentage,OPM difference=2524.16,WARNING
+DQ-05,profitandloss,INDUSINDBK,2022-03,opm_percentage,OPM difference=890.39,WARNING
+DQ-05,profitandloss,INDUSINDBK,2023-03,opm_percentage,OPM difference=2024.31,WARNING
+DQ-05,profitandloss,INDUSINDBK,2024-03,opm_percentage,OPM difference=2939.45,WARNING
+DQ-05,profitandloss,INDUSINDBK,TTM,opm_percentage,OPM difference=1281.97,WARNING
+DQ-05,profitandloss,JIOFIN,2023-03,opm_percentage,OPM difference=1.33,WARNING
+DQ-05,profitandloss,KOTAKBANK,2013-03,opm_percentage,OPM difference=1849.92,WARNING
+DQ-05,profitandloss,KOTAKBANK,2014-03,opm_percentage,OPM difference=1437.84,WARNING
+DQ-05,profitandloss,KOTAKBANK,2015-03,opm_percentage,OPM difference=3438.96,WARNING
+DQ-05,profitandloss,KOTAKBANK,2016-03,opm_percentage,OPM difference=2319.57,WARNING
+DQ-05,profitandloss,KOTAKBANK,2017-03,opm_percentage,OPM difference=4031.44,WARNING
+DQ-05,profitandloss,KOTAKBANK,2018-03,opm_percentage,OPM difference=4207.87,WARNING
+DQ-05,profitandloss,KOTAKBANK,2019-03,opm_percentage,OPM difference=5180.23,WARNING
+DQ-05,profitandloss,KOTAKBANK,2020-03,opm_percentage,OPM difference=5072.45,WARNING
+DQ-05,profitandloss,KOTAKBANK,2021-03,opm_percentage,OPM difference=10048.83,WARNING
+DQ-05,profitandloss,KOTAKBANK,2022-03,opm_percentage,OPM difference=8602.98,WARNING
+DQ-05,profitandloss,KOTAKBANK,2023-03,opm_percentage,OPM difference=5825.44,WARNING
+DQ-05,profitandloss,KOTAKBANK,2024-03,opm_percentage,OPM difference=13465.67,WARNING
+DQ-05,profitandloss,KOTAKBANK,TTM,opm_percentage,OPM difference=14225.42,WARNING
+DQ-05,profitandloss,SUNPHARMA,2024-03,opm_percentage,OPM difference=1.16,WARNING
+DQ-05,profitandloss,INDIGO,2013-03,opm_percentage,OPM difference=764.29,WARNING
+DQ-05,profitandloss,INDIGO,2014-03,opm_percentage,OPM difference=336.89,WARNING
+DQ-05,profitandloss,INDIGO,2015-03,opm_percentage,OPM difference=1817.67,WARNING
+DQ-05,profitandloss,INDIGO,2016-03,opm_percentage,OPM difference=3083.60,WARNING
+DQ-05,profitandloss,INDIGO,2017-03,opm_percentage,OPM difference=2130.94,WARNING
+DQ-05,profitandloss,INDIGO,2018-03,opm_percentage,OPM difference=2943.16,WARNING
+DQ-05,profitandloss,INDIGO,2019-03,opm_percentage,OPM difference=251.53,WARNING
+DQ-05,profitandloss,INDIGO,2020-03,opm_percentage,OPM difference=3980.38,WARNING
+DQ-05,profitandloss,INDIGO,2021-03,opm_percentage,OPM difference=97.98,WARNING
+DQ-05,profitandloss,INDIGO,2022-03,opm_percentage,OPM difference=460.15,WARNING
+DQ-05,profitandloss,INDIGO,2023-03,opm_percentage,OPM difference=6432.98,WARNING
+DQ-05,profitandloss,INDIGO,2024-03,opm_percentage,OPM difference=16254.70,WARNING
+DQ-05,profitandloss,INDIGO,TTM,opm_percentage,OPM difference=15828.80,WARNING
+DQ-06,profitandloss,ADANIENSOL,2014-03,sales,Sales must be positive: 0,WARNING
+DQ-09,cashflow,TVSMOTOR,2022-03,net_cash_flow,Cash flow mismatch=660.00,WARNING
+DQ-11,profitandloss,ADANIENT,2014-03,tax_percentage,Tax percentage outside 0-60: -64.0,WARNING
+DQ-11,profitandloss,ADANIGREEN,2017-03,tax_percentage,Tax percentage outside 0-60: -75.0,WARNING
+DQ-11,profitandloss,ADANIGREEN,2018-03,tax_percentage,Tax percentage outside 0-60: -35.0,WARNING
+DQ-11,profitandloss,ADANIGREEN,2019-03,tax_percentage,Tax percentage outside 0-60: -19.0,WARNING
+DQ-11,profitandloss,ADANIPOWER,2014-03,tax_percentage,Tax percentage outside 0-60: -79.0,WARNING
+DQ-11,profitandloss,ADANIPOWER,2016-03,tax_percentage,Tax percentage outside 0-60: -47.0,WARNING
+DQ-11,profitandloss,ADANIPOWER,2017-03,tax_percentage,Tax percentage outside 0-60: -1.0,WARNING
+DQ-11,profitandloss,ADANIPOWER,2023-03,tax_percentage,Tax percentage outside 0-60: -40.0,WARNING
+DQ-11,profitandloss,AMBUJACEM,2018-12,tax_percentage,Tax percentage outside 0-60: -2.0,WARNING
+DQ-11,profitandloss,APOLLOHOSP,2018-03,tax_percentage,Tax percentage outside 0-60: 65.0,WARNING
+DQ-11,profitandloss,AXISBANK,2018-03,tax_percentage,Tax percentage outside 0-60: -99.0,WARNING
+DQ-11,profitandloss,AXISBANK,2020-03,tax_percentage,Tax percentage outside 0-60: 67.0,WARNING
+DQ-11,profitandloss,BANKBARODA,2016-03,tax_percentage,Tax percentage outside 0-60: -19.0,WARNING
+DQ-11,profitandloss,BANKBARODA,2018-03,tax_percentage,Tax percentage outside 0-60: -9.0,WARNING
+DQ-11,profitandloss,BANKBARODA,2020-03,tax_percentage,Tax percentage outside 0-60: -99.0,WARNING
+DQ-11,profitandloss,BANKBARODA,2021-03,tax_percentage,Tax percentage outside 0-60: 77.0,WARNING
+DQ-11,profitandloss,BHARTIARTL,2014-03,tax_percentage,Tax percentage outside 0-60: 62.0,WARNING
+DQ-11,profitandloss,BHARTIARTL,2019-03,tax_percentage,Tax percentage outside 0-60: -99.0,WARNING
+DQ-11,profitandloss,BHARTIARTL,2020-03,tax_percentage,Tax percentage outside 0-60: -28.0,WARNING
+DQ-11,profitandloss,BHARTIARTL,2021-03,tax_percentage,Tax percentage outside 0-60: 99.0,WARNING
+DQ-11,profitandloss,BHEL,2016-03,tax_percentage,Tax percentage outside 0-60: -39.0,WARNING
+DQ-11,profitandloss,BHEL,2018-03,tax_percentage,Tax percentage outside 0-60: 64.0,WARNING
+DQ-11,profitandloss,BHEL,2020-03,tax_percentage,Tax percentage outside 0-60: 99.0,WARNING
+DQ-11,profitandloss,BHEL,2021-03,tax_percentage,Tax percentage outside 0-60: -25.0,WARNING
+DQ-11,profitandloss,BHEL,2024-03,tax_percentage,Tax percentage outside 0-60: -16.0,WARNING
+DQ-11,profitandloss,CANBK,2016-03,tax_percentage,Tax percentage outside 0-60: -13.0,WARNING
+DQ-11,profitandloss,CANBK,2018-03,tax_percentage,Tax percentage outside 0-60: -36.0,WARNING
+DQ-11,profitandloss,CANBK,2019-03,tax_percentage,Tax percentage outside 0-60: -99.0,WARNING
+DQ-11,profitandloss,DLF,2014-03,tax_percentage,Tax percentage outside 0-60: -16.0,WARNING
+DQ-11,profitandloss,DLF,2020-03,tax_percentage,Tax percentage outside 0-60: 99.0,WARNING
+DQ-11,profitandloss,DRREDDY,2020-03,tax_percentage,Tax percentage outside 0-60: -7.0,WARNING
+DQ-11,profitandloss,GODREJCP,2019-03,tax_percentage,Tax percentage outside 0-60: -12.0,WARNING
+DQ-11,profitandloss,GODREJCP,2024-03,tax_percentage,Tax percentage outside 0-60: 99.0,WARNING
+DQ-11,profitandloss,GRASIM,2020-03,tax_percentage,Tax percentage outside 0-60: -1.0,WARNING
+DQ-11,profitandloss,HDFCLIFE,2024-03,tax_percentage,Tax percentage outside 0-60: -61.0,WARNING
+DQ-11,profitandloss,HINDALCO,2015-03,tax_percentage,Tax percentage outside 0-60: 75.0,WARNING
+DQ-11,profitandloss,HINDALCO,2016-03,tax_percentage,Tax percentage outside 0-60: 99.0,WARNING
+DQ-11,profitandloss,IOC,2020-03,tax_percentage,Tax percentage outside 0-60: -74.0,WARNING
+DQ-11,profitandloss,IRFC,2013-03,tax_percentage,Tax percentage outside 0-60: 64.0,WARNING
+DQ-11,profitandloss,JINDALSTEL,2015-03,tax_percentage,Tax percentage outside 0-60: -6.0,WARNING
+DQ-11,profitandloss,JINDALSTEL,2016-03,tax_percentage,Tax percentage outside 0-60: -22.0,WARNING
+DQ-11,profitandloss,JINDALSTEL,2017-03,tax_percentage,Tax percentage outside 0-60: -17.0,WARNING
+DQ-11,profitandloss,JINDALSTEL,2018-03,tax_percentage,Tax percentage outside 0-60: -13.0,WARNING
+DQ-11,profitandloss,JINDALSTEL,2019-03,tax_percentage,Tax percentage outside 0-60: -14.0,WARNING
+DQ-11,profitandloss,JSWENERGY,2018-03,tax_percentage,Tax percentage outside 0-60: 75.0,WARNING
+DQ-11,profitandloss,JSWSTEEL,2014-03,tax_percentage,Tax percentage outside 0-60: 70.0,WARNING
+DQ-11,profitandloss,JSWSTEEL,2016-03,tax_percentage,Tax percentage outside 0-60: -80.0,WARNING
+DQ-11,profitandloss,JSWSTEEL,2020-03,tax_percentage,Tax percentage outside 0-60: -30.0,WARNING
+DQ-11,profitandloss,LICI,2019-03,tax_percentage,Tax percentage outside 0-60: 68.0,WARNING
+DQ-11,profitandloss,LICI,2020-03,tax_percentage,Tax percentage outside 0-60: 80.0,WARNING
+DQ-11,profitandloss,LICI,2021-03,tax_percentage,Tax percentage outside 0-60: 76.0,WARNING
+DQ-11,profitandloss,LICI,2022-03,tax_percentage,Tax percentage outside 0-60: 66.0,WARNING
+DQ-11,profitandloss,LODHA,2021-03,tax_percentage,Tax percentage outside 0-60: -44.0,WARNING
+DQ-11,profitandloss,LODHA,2023-03,tax_percentage,Tax percentage outside 0-60: -8.0,WARNING
+DQ-11,profitandloss,M&M,2020-03,tax_percentage,Tax percentage outside 0-60: 99.0,WARNING
+DQ-11,profitandloss,MOTHERSON,2020-03,tax_percentage,Tax percentage outside 0-60: -5.0,WARNING
+DQ-11,profitandloss,NAUKRI,2015-03,tax_percentage,Tax percentage outside 0-60: 99.0,WARNING
+DQ-11,profitandloss,NAUKRI,2017-03,tax_percentage,Tax percentage outside 0-60: 99.0,WARNING
+DQ-11,profitandloss,NAUKRI,2020-03,tax_percentage,Tax percentage outside 0-60: 95.0,WARNING
+DQ-11,profitandloss,NAUKRI,2023-03,tax_percentage,Tax percentage outside 0-60: 99.0,WARNING
+DQ-11,profitandloss,NHPC,2020-03,tax_percentage,Tax percentage outside 0-60: -2.0,WARNING
+DQ-11,profitandloss,NHPC,2022-03,tax_percentage,Tax percentage outside 0-60: -17.0,WARNING
+DQ-11,profitandloss,NTPC,2016-03,tax_percentage,Tax percentage outside 0-60: -2.0,WARNING
+DQ-11,profitandloss,NTPC,2019-03,tax_percentage,Tax percentage outside 0-60: -25.0,WARNING
+DQ-11,profitandloss,PNB,2016-03,tax_percentage,Tax percentage outside 0-60: -31.0,WARNING
+DQ-11,profitandloss,PNB,2018-03,tax_percentage,Tax percentage outside 0-60: -37.0,WARNING
+DQ-11,profitandloss,PNB,2019-03,tax_percentage,Tax percentage outside 0-60: -35.0,WARNING
+DQ-11,profitandloss,POWERGRID,2019-03,tax_percentage,Tax percentage outside 0-60: -10.0,WARNING
+DQ-11,profitandloss,SBIN,2017-03,tax_percentage,Tax percentage outside 0-60: 99.0,WARNING
+DQ-11,profitandloss,SBIN,2018-03,tax_percentage,Tax percentage outside 0-60: -66.0,WARNING
+DQ-11,profitandloss,SHREECEM,2015-06,tax_percentage,Tax percentage outside 0-60: -6.0,WARNING
+DQ-11,profitandloss,TATACONSUM,2016-03,tax_percentage,Tax percentage outside 0-60: 99.0,WARNING
+DQ-11,profitandloss,TATAMOTORS,2019-03,tax_percentage,Tax percentage outside 0-60: -8.0,WARNING
+DQ-11,profitandloss,TATAMOTORS,2024-03,tax_percentage,Tax percentage outside 0-60: -14.0,WARNING
+DQ-11,profitandloss,TATAPOWER,2013-03,tax_percentage,Tax percentage outside 0-60: 92.0,WARNING
+DQ-11,profitandloss,TATAPOWER,2014-03,tax_percentage,Tax percentage outside 0-60: 99.0,WARNING
+DQ-11,profitandloss,TATAPOWER,2015-03,tax_percentage,Tax percentage outside 0-60: 72.0,WARNING
+DQ-11,profitandloss,TATASTEEL,2013-03,tax_percentage,Tax percentage outside 0-60: 78.0,WARNING
+DQ-11,profitandloss,TATASTEEL,2015-03,tax_percentage,Tax percentage outside 0-60: 99.0,WARNING
+DQ-11,profitandloss,TATASTEEL,2016-03,tax_percentage,Tax percentage outside 0-60: 99.0,WARNING
+DQ-11,profitandloss,TATASTEEL,2017-03,tax_percentage,Tax percentage outside 0-60: 99.0,WARNING
+DQ-11,profitandloss,TATASTEEL,2020-03,tax_percentage,Tax percentage outside 0-60: -99.0,WARNING
+DQ-11,profitandloss,TATASTEEL,2024-03,tax_percentage,Tax percentage outside 0-60: 99.0,WARNING
+DQ-11,profitandloss,TRENT,2013-03,tax_percentage,Tax percentage outside 0-60: 99.0,WARNING
+DQ-11,profitandloss,TRENT,2014-03,tax_percentage,Tax percentage outside 0-60: 99.0,WARNING
+DQ-11,profitandloss,TRENT,2021-03,tax_percentage,Tax percentage outside 0-60: -12.0,WARNING
+DQ-11,profitandloss,TRENT,2022-03,tax_percentage,Tax percentage outside 0-60: 69.0,WARNING
+DQ-11,profitandloss,INDIGO,2019-03,tax_percentage,Tax percentage outside 0-60: -99.0,WARNING
+DQ-11,profitandloss,INDIGO,2020-03,tax_percentage,Tax percentage outside 0-60: -10.0,WARNING
+DQ-11,profitandloss,INDIGO,2024-03,tax_percentage,Tax percentage outside 0-60: -2.0,WARNING
+DQ-12,profitandloss,BHARTIARTL,2019-03,dividend_payout,Dividend payout exceeds 200: 244.0,WARNING
+DQ-12,profitandloss,BRITANNIA,2021-03,dividend_payout,Dividend payout exceeds 200: 204.0,WARNING
+DQ-12,profitandloss,M&M,2020-03,dividend_payout,Dividend payout exceeds 200: 205.0,WARNING
+DQ-12,profitandloss,SBIN,2017-03,dividend_payout,Dividend payout exceeds 200: 859.0,WARNING
+DQ-12,profitandloss,TATAPOWER,2015-03,dividend_payout,Dividend payout exceeds 200: 210.0,WARNING
+DQ-14,profitandloss,JIOFIN,2023-03,eps,Positive net profit=31 but EPS=nan,WARNING
+DQ-14,profitandloss,JSWENERGY,2018-03,eps,Positive net profit=85 but EPS=0.0,WARNING
+DQ-14,profitandloss,LICI,2019-03,eps,Positive net profit=2627 but EPS=nan,WARNING
+DQ-14,profitandloss,LICI,2020-03,eps,Positive net profit=2710 but EPS=nan,WARNING
+DQ-14,profitandloss,LICI,TTM,eps,Positive net profit=41468 but EPS=nan,WARNING
+DQ-14,profitandloss,SIEMENS,2011-09,eps,Positive net profit=868 but EPS=nan,WARNING
+DQ-14,profitandloss,TATAPOWER,2013-03,eps,Positive net profit=123 but EPS=0.0,WARNING
+DQ-14,profitandloss,TATAPOWER,2014-03,eps,Positive net profit=12 but EPS=-1.0,WARNING
+DQ-16,profitandloss,JIOFIN,,year,Only 2 years available; minimum is 5,WARNING
+DQ-16,balancesheet,JIOFIN,,year,Only 3 years available; minimum is 5,WARNING
+DQ-16,balancesheet,SBIN,,year,Only 0 years available; minimum is 5,WARNING
+DQ-16,cashflow,ATGL,,year,Only 0 years available; minimum is 5,WARNING
+DQ-16,cashflow,JIOFIN,,year,Only 2 years available; minimum is 5,WARNING

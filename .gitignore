@@ -1,0 +1,29 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Confidential/source datasets
+data/raw/
+data/supporting/
+data/nifty100.db
+
+# Generated Python artifacts
+*.db
+
+# Duplicate root log
+/ratio_edge_cases.log
+
+# Confidential/source datasets
+data/raw/
+data/supporting/
+data/nifty100.db
+
+# Generated Python artifacts
+*.db
+
+# Duplicate root log
+/ratio_edge_cases.log

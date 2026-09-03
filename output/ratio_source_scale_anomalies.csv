@@ -1,0 +1,4 @@
+company_id,year,net_profit,equity_capital,reserves,total_assets,return_on_equity_pct,issue,explanation
+BEL,2024-03,3985.0,11.0,73.0,161.0,4744.047619047619,EXTREME_ROE_SOURCE_SCALE_ANOMALY,"ROE formula is mathematically correct using loaded P&L and Balance Sheet data, but source monetary values appear to use inconsistent scale. Raw data retained; no synthetic rescaling applied."
+HAL,2024-03,7595.0,5.0,194.0,450.0,3816.5829145728644,EXTREME_ROE_SOURCE_SCALE_ANOMALY,"ROE formula is mathematically correct using loaded P&L and Balance Sheet data, but source monetary values appear to use inconsistent scale. Raw data retained; no synthetic rescaling applied."
+INDIGO,2024-03,8167.0,48.0,867.0,1222.0,892.568306010929,EXTREME_ROE_SOURCE_SCALE_ANOMALY,"ROE formula is mathematically correct using loaded P&L and Balance Sheet data, but source monetary values appear to use inconsistent scale. Raw data retained; no synthetic rescaling applied."
