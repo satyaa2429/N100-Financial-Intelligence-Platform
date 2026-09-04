@@ -1,0 +1,142 @@
+metrics:
+  roe:
+    label: "ROE (%)"
+    table: "financial_ratios"
+    column: "return_on_equity_pct"
+    operator: "min"
+
+  debt_to_equity:
+    label: "Debt to Equity"
+    table: "financial_ratios"
+    column: "debt_to_equity"
+    operator: "max"
+
+  free_cash_flow:
+    label: "Free Cash Flow (Cr)"
+    table: "financial_ratios"
+    column: "free_cash_flow_cr"
+    operator: "min"
+
+  revenue_cagr_5yr:
+    label: "Revenue CAGR 5Y (%)"
+    table: "financial_ratios"
+    column: "revenue_cagr_5yr"
+    operator: "min"
+
+  pat_cagr_5yr:
+    label: "PAT CAGR 5Y (%)"
+    table: "financial_ratios"
+    column: "pat_cagr_5yr"
+    operator: "min"
+
+  operating_profit_margin:
+    label: "Operating Profit Margin (%)"
+    table: "financial_ratios"
+    column: "operating_profit_margin_pct"
+    operator: "min"
+
+  pe_ratio:
+    label: "P/E Ratio"
+    table: "market_cap"
+    column: "pe_ratio"
+    operator: "max"
+
+  pb_ratio:
+    label: "P/B Ratio"
+    table: "market_cap"
+    column: "pb_ratio"
+    operator: "max"
+
+  dividend_yield:
+    label: "Dividend Yield (%)"
+    table: "market_cap"
+    column: "dividend_yield_pct"
+    operator: "min"
+
+  interest_coverage:
+    label: "Interest Coverage Ratio"
+    table: "financial_ratios"
+    column: "interest_coverage"
+    operator: "min"
+
+  market_cap:
+    label: "Market Cap (Cr)"
+    table: "market_cap"
+    column: "market_cap_crore"
+    operator: "min"
+
+  net_profit:
+    label: "Net Profit (Cr)"
+    table: "profitandloss"
+    column: "net_profit"
+    operator: "min"
+
+  eps_cagr_5yr:
+    label: "EPS CAGR 5Y (%)"
+    table: "financial_ratios"
+    column: "eps_cagr_5yr"
+    operator: "min"
+
+  asset_turnover:
+    label: "Asset Turnover"
+    table: "financial_ratios"
+    column: "asset_turnover"
+    operator: "min"
+
+  sales:
+    label: "Sales (Cr)"
+    table: "profitandloss"
+    column: "sales"
+    operator: "min"
+
+presets:
+  quality:
+    label: "Quality"
+    conditions:
+      - metric: "roe"
+        operator: "gt"
+        value: 15
+      - metric: "debt_to_equity"
+        operator: "lt"
+        value: 1
+      - metric: "free_cash_flow"
+        operator: "gt"
+        value: 0
+
+  value:
+    label: "Value"
+    conditions:
+      - metric: "pe_ratio"
+        operator: "lt"
+        value: 20
+      - metric: "pb_ratio"
+        operator: "lt"
+        value: 3
+
+  growth:
+    label: "Growth"
+    conditions:
+      - metric: "pat_cagr_5yr"
+        operator: "gt"
+        value: 20
+
+  dividend:
+    label: "Dividend"
+    conditions:
+      - metric: "dividend_yield"
+        operator: "gt"
+        value: 2
+
+  momentum:
+    label: "Momentum"
+    conditions:
+      - metric: "revenue_cagr_5yr"
+        operator: "gt"
+        value: 15
+
+  debt_free:
+    label: "Debt-Free"
+    conditions:
+      - column: "total_debt_cr"
+        operator: "eq"
+        value: 0

@@ -294,11 +294,159 @@ def compute_cagr_metrics(
 def create_cagr_wide_table(
     profit_loss: pd.DataFrame,
 ) -> pd.DataFrame:
-    """Create company-level CAGR summary table."""
+    """Create company-year CAGR data for financial_ratios population."""
 
-    return compute_cagr_metrics(
-        profit_loss
+    required_columns = {
+        "company_id",
+        "year",
+        "sales",
+        "net_profit",
+        "eps",
+    }
+
+    if not required_columns.issubset(profit_loss.columns):
+        missing = sorted(
+            required_columns - set(profit_loss.columns)
+        )
+        raise ValueError(
+            f"Missing CAGR source columns: {missing}"
+        )
+
+    df = profit_loss.copy()
+
+    df["company_id"] = (
+        df["company_id"]
+        .astype(str)
+        .str.strip()
+        .str.upper()
     )
+
+    df["year"] = (
+        df["year"]
+        .astype(str)
+        .str.strip()
+    )
+
+    for column in ["sales", "net_profit", "eps"]:
+        df[column] = pd.to_numeric(
+            df[column],
+            errors="coerce",
+        )
+
+    df["_year_number"] = df["year"].apply(
+        _extract_year
+    )
+
+    annual = df[
+        df["_year_number"].notna()
+    ].copy()
+
+    annual["_year_number"] = (
+        annual["_year_number"].astype(int)
+    )
+
+    annual = (
+        annual
+        .sort_values(
+            [
+                "company_id",
+                "_year_number",
+                "year",
+            ]
+        )
+        .drop_duplicates(
+            subset=[
+                "company_id",
+                "_year_number",
+            ],
+            keep="last",
+        )
+    )
+
+    metrics = {
+        "revenue": "sales",
+        "pat": "net_profit",
+        "eps": "eps",
+    }
+
+    lookups = {}
+
+    for metric_name, source_column in metrics.items():
+        lookups[metric_name] = {
+            (
+                row["company_id"],
+                int(row["_year_number"]),
+            ): row[source_column]
+            for _, row in annual.iterrows()
+        }
+
+    base_rows = (
+        df
+        .drop_duplicates(
+            subset=["company_id", "year"],
+            keep="last",
+        )
+    )
+
+    rows = []
+
+    for _, row in base_rows.iterrows():
+
+        company_id = row["company_id"]
+        year = row["year"]
+        current_year = _extract_year(year)
+
+        result = {
+            "company_id": company_id,
+            "year": year,
+        }
+
+        for metric_name in metrics:
+
+            lookup = lookups[metric_name]
+
+            for period in [3, 5, 10]:
+
+                value_column = (
+                    f"{metric_name}_cagr_{period}yr"
+                )
+
+                flag_column = (
+                    f"{value_column}_flag"
+                )
+
+                if current_year is None:
+                    value = None
+                    flag = CAGR_INSUFFICIENT
+                else:
+                    start_value = lookup.get(
+                        (
+                            company_id,
+                            current_year - period,
+                        )
+                    )
+
+                    end_value = lookup.get(
+                        (
+                            company_id,
+                            current_year,
+                        )
+                    )
+
+                    value, flag = (
+                        calculate_cagr_with_flag(
+                            start_value,
+                            end_value,
+                            period,
+                        )
+                    )
+
+                result[value_column] = value
+                result[flag_column] = flag
+
+        rows.append(result)
+
+    return pd.DataFrame(rows)
 
 
 # ===== CAGR YEAR VALIDATION =====
@@ -353,4 +501,5 @@ def calculate_cagr(
         end_value,
         years,
     )
+
 

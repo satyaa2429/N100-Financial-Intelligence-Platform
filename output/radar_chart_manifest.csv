@@ -1,0 +1,93 @@
+company_id,company_name,selected_year,available_axes,comparison_type,comparison_group,missing_axes,reference_fallback_axes,file
+ABB,Abbott India Ltd,2024-03,8,Sector Fallback,Industrials,,,reports\radar_charts\ABB.png
+ADANIENSOL,Adani Energy Solutions Ltd,2024-03,8,Sector Fallback,Energy,,,reports\radar_charts\ADANIENSOL.png
+ADANIENT,Adani Enterprises Ltd,2024-03,8,Sector Fallback,Industrials,,,reports\radar_charts\ADANIENT.png
+ADANIGREEN,Adani Green Energy Ltd,2024-03,6,Official Peer Group,Power & Utilities,"PAT CAGR 5Y, EPS CAGR 5Y",,reports\radar_charts\ADANIGREEN.png
+ADANIPORTS,Adani Ports & Special Economic Zone Ltd,2024-03,8,Sector Fallback,Industrials,,,reports\radar_charts\ADANIPORTS.png
+ADANIPOWER,Adani Power Ltd,2021-03,8,Official Peer Group,Power & Utilities,,,reports\radar_charts\ADANIPOWER.png
+AMBUJACEM,Ambuja Cements Ltd,2024-03,8,Sector Fallback,Materials,,,reports\radar_charts\AMBUJACEM.png
+APOLLOHOSP,Apollo Hospitals Chain of Indian private hospitals,2024-03,8,Sector Fallback,Healthcare,,,reports\radar_charts\APOLLOHOSP.png
+ASIANPAINT,Asian Paints Indian Multi-National Paint and Coating Manufacturing Company,2024-03,8,Sector Fallback,Materials,,,reports\radar_charts\ASIANPAINT.png
+ATGL,Adani Total Gas Ltd,2024-03,8,Sector Fallback,Energy,,,reports\radar_charts\ATGL.png
+AXISBANK,Axis Bank Ltd,2024-03,8,Official Peer Group,Private Banks,,,reports\radar_charts\AXISBANK.png
+BAJAJ-AUTO,Bajaj Auto Ltd,2024-03,8,Official Peer Group,Automobiles,,,reports\radar_charts\BAJAJ-AUTO.png
+BAJAJFINSV,Bajaj Finserv Ltd,2024-03,8,Sector Fallback,Financials,,,reports\radar_charts\BAJAJFINSV.png
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,2024-03,8,Sector Fallback,Financials,,,reports\radar_charts\BAJAJHLDNG.png
+BAJFINANCE,Bajaj Finance Ltd,2024-03,8,Official Peer Group,Consumer Finance,,,reports\radar_charts\BAJFINANCE.png
+BANKBARODA,Bank of Baroda,2024-03,8,Official Peer Group,Public Sector Banks,,,reports\radar_charts\BANKBARODA.png
+BEL,Bharat Electronics Ltd,2024-03,8,Sector Fallback,Industrials,,,reports\radar_charts\BEL.png
+BHARTIARTL,Bharti Airtel Ltd,2024-03,8,Sector Fallback,Communication Services,,,reports\radar_charts\BHARTIARTL.png
+BHEL,Bharat Heavy Electricals Limited,2024-03,8,Sector Fallback,Industrials,,,reports\radar_charts\BHEL.png
+BOSCHLTD,Bosch Ltd,2024-03,8,Sector Fallback,Consumer Discretionary,,,reports\radar_charts\BOSCHLTD.png
+BPCL,Bharat Petroleum Corporation Ltd,2024-03,8,Official Peer Group,Oil & Gas,,,reports\radar_charts\BPCL.png
+BRITANNIA,Britannia Industries Ltd,2024-03,8,Official Peer Group,FMCG,,,reports\radar_charts\BRITANNIA.png
+CANBK,Canara Bank,2024-03,8,Official Peer Group,Public Sector Banks,,,reports\radar_charts\CANBK.png
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,2024-03,8,Official Peer Group,Consumer Finance,,,reports\radar_charts\CHOLAFIN.png
+CIPLA,Cipla Ltd,2024-03,8,Official Peer Group,Pharmaceuticals,,,reports\radar_charts\CIPLA.png
+COALINDIA,Coal India Ltd,2024-03,8,Sector Fallback,Materials,,,reports\radar_charts\COALINDIA.png
+DABUR,Dabur India Ltd,2024-03,8,Official Peer Group,FMCG,,,reports\radar_charts\DABUR.png
+DIVISLAB,Divis Laboratories Ltd,2024-03,8,Official Peer Group,Pharmaceuticals,,,reports\radar_charts\DIVISLAB.png
+DLF,DLF Ltd,2024-03,8,Sector Fallback,Real Estate,,,reports\radar_charts\DLF.png
+DMART,Avenue Supermarts Ltd,2024-03,8,Sector Fallback,Consumer Discretionary,,,reports\radar_charts\DMART.png
+DRREDDY,Dr Reddys Laboratories Ltd,2024-03,8,Official Peer Group,Pharmaceuticals,,,reports\radar_charts\DRREDDY.png
+EICHERMOT,Eicher Motors Ltd,2024-03,8,Official Peer Group,Automobiles,,,reports\radar_charts\EICHERMOT.png
+GAIL,GAIL (India) Ltd,2024-03,8,Official Peer Group,Oil & Gas,,,reports\radar_charts\GAIL.png
+GODREJCP,Godrej Consumer Products Ltd,2023-03,8,Official Peer Group,FMCG,,,reports\radar_charts\GODREJCP.png
+GRASIM,Grasim Industries Ltd,2024-03,8,Sector Fallback,Industrials,,,reports\radar_charts\GRASIM.png
+HAL,Hindustan Aeronautics Ltd,2024-03,8,Sector Fallback,Industrials,,,reports\radar_charts\HAL.png
+HAVELLS,Havells India Ltd,2024-03,8,Sector Fallback,Industrials,,,reports\radar_charts\HAVELLS.png
+HCLTECH,HCL Technologies Ltd,2024-03,8,Official Peer Group,IT Services,,,reports\radar_charts\HCLTECH.png
+HDFCBANK,HDFC Bank Ltd,2024-03,8,Official Peer Group,Private Banks,,,reports\radar_charts\HDFCBANK.png
+HDFCLIFE,HDFC Life Insurance Company Ltd,2024-03,8,Official Peer Group,Life Insurance,,,reports\radar_charts\HDFCLIFE.png
+HEROMOTOCO,Hero MotoCorp Ltd,2024-03,8,Official Peer Group,Automobiles,,,reports\radar_charts\HEROMOTOCO.png
+HINDALCO,Hindalco Industries Ltd,2024-03,8,Official Peer Group,Steel,,,reports\radar_charts\HINDALCO.png
+HINDUNILVR,Hindustan Unilever Ltd,2024-03,8,Official Peer Group,FMCG,,,reports\radar_charts\HINDUNILVR.png
+ICICIBANK,ICICI Bank Ltd,2024-03,8,Official Peer Group,Private Banks,,,reports\radar_charts\ICICIBANK.png
+ICICIGI,ICICI Lombard General Insurance Company Ltd,2024-03,8,Sector Fallback,Financials,,,reports\radar_charts\ICICIGI.png
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,2024-03,8,Official Peer Group,Life Insurance,,,reports\radar_charts\ICICIPRULI.png
+INDIGO,Interglobe Aviation Ltd,2024-03,8,Sector Fallback,Consumer Discretionary,,,reports\radar_charts\INDIGO.png
+INDUSINDBK,IndusInd Bank Ltd,2024-03,8,Official Peer Group,Private Banks,,,reports\radar_charts\INDUSINDBK.png
+INFY,Infosys Ltd,2024-03,8,Official Peer Group,IT Services,,,reports\radar_charts\INFY.png
+IOC,Indian Oil Corporation,2024-03,8,Official Peer Group,Oil & Gas,,,reports\radar_charts\IOC.png
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,2024-03,8,Sector Fallback,Consumer Discretionary,,,reports\radar_charts\IRCTC.png
+IRFC,Indian Railway Finance Corporation Ltd,2024-03,8,Sector Fallback,Financials,,,reports\radar_charts\IRFC.png
+ITC,ITC Ltd,2024-03,8,Official Peer Group,FMCG,,,reports\radar_charts\ITC.png
+JINDALSTEL,Jindal Steel & Power Ltd,2024-03,6,Official Peer Group,Steel,"PAT CAGR 5Y, EPS CAGR 5Y",,reports\radar_charts\JINDALSTEL.png
+JIOFIN,Jio Financial Services Ltd,2024-03,5,Sector Fallback,Financials,"PAT CAGR 5Y, Revenue CAGR 5Y, EPS CAGR 5Y",,reports\radar_charts\JIOFIN.png
+JSWENERGY,JSW Energy Ltd,2024-03,8,Official Peer Group,Power & Utilities,,,reports\radar_charts\JSWENERGY.png
+JSWSTEEL,JSW Steel Ltd,2024-03,8,Official Peer Group,Steel,,,reports\radar_charts\JSWSTEEL.png
+KOTAKBANK,Kotak Mahindra Bank Ltd,2024-03,8,Official Peer Group,Private Banks,,,reports\radar_charts\KOTAKBANK.png
+LICI,Life Insurance Corporation of India,2024-03,7,Official Peer Group,Life Insurance,EPS CAGR 5Y,,reports\radar_charts\LICI.png
+LODHA,Macrotech Developers Ltd,2024-03,8,Sector Fallback,Real Estate,,,reports\radar_charts\LODHA.png
+LT,Larsen & Toubro Ltd,2024-03,8,Sector Fallback,Industrials,,,reports\radar_charts\LT.png
+LTIM,LTIMindtree Ltd,2024-03,8,Official Peer Group,IT Services,,,reports\radar_charts\LTIM.png
+M&M,Mahindra & Mahindra Ltd,2024-03,8,Official Peer Group,Automobiles,,,reports\radar_charts\M_M.png
+MARUTI,Maruti Suzuki India Ltd,2024-03,8,Official Peer Group,Automobiles,,,reports\radar_charts\MARUTI.png
+MOTHERSON,Samvardhana Motherson International Ltd,2024-03,8,Sector Fallback,Consumer Discretionary,,,reports\radar_charts\MOTHERSON.png
+NAUKRI,Info Edge (India) Ltd,2024-03,8,Sector Fallback,Communication Services,,,reports\radar_charts\NAUKRI.png
+NESTLEIND,Nestle India Ltd,2024-03,8,Official Peer Group,FMCG,,,reports\radar_charts\NESTLEIND.png
+NHPC,NHPC Ltd,2024-03,8,Official Peer Group,Power & Utilities,,,reports\radar_charts\NHPC.png
+NTPC,NTPC Ltd,2024-03,8,Official Peer Group,Power & Utilities,,,reports\radar_charts\NTPC.png
+ONGC,Oil & Natural Gas Corpn Ltd,2024-03,8,Official Peer Group,Oil & Gas,,,reports\radar_charts\ONGC.png
+PFC,Power Finance Corporation Ltd,2024-03,8,Sector Fallback,Financials,,,reports\radar_charts\PFC.png
+PIDILITIND,Pidilite Industries Ltd,2024-03,8,Sector Fallback,Materials,,,reports\radar_charts\PIDILITIND.png
+PNB,Punjab National Bank,2022-03,7,Official Peer Group,Public Sector Banks,ROCE,,reports\radar_charts\PNB.png
+POWERGRID,Power Grid Corporation of India Ltd,2024-03,8,Official Peer Group,Power & Utilities,,,reports\radar_charts\POWERGRID.png
+RECLTD,REC Ltd,2024-03,8,Sector Fallback,Financials,,,reports\radar_charts\RECLTD.png
+RELIANCE,Reliance Industries Ltd,2024-03,8,Official Peer Group,Oil & Gas,,,reports\radar_charts\RELIANCE.png
+SBILIFE,SBI Life Insurance Company Ltd,2024-03,8,Official Peer Group,Life Insurance,,,reports\radar_charts\SBILIFE.png
+SBIN,State Bank of India,2024-03,5,Official Peer Group,Public Sector Banks,"ROE, ROCE, D/E",,reports\radar_charts\SBIN.png
+SHREECEM,Shree Cement Ltd,2024-03,8,Sector Fallback,Materials,,,reports\radar_charts\SHREECEM.png
+SHRIRAMFIN,Shriram Finance Ltd,2024-03,8,Official Peer Group,Consumer Finance,,,reports\radar_charts\SHRIRAMFIN.png
+SIEMENS,Siemens Ltd,2024-09,8,Sector Fallback,Industrials,,"ROE, ROCE, NPM, D/E, FCF, PAT CAGR 5Y, Revenue CAGR 5Y, EPS CAGR 5Y",reports\radar_charts\SIEMENS.png
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,2024-03,8,Official Peer Group,Pharmaceuticals,,,reports\radar_charts\SUNPHARMA.png
+TATACONSUM,Tata Consumer Products Ltd,2024-03,8,Official Peer Group,FMCG,,,reports\radar_charts\TATACONSUM.png
+TATAMOTORS,Tata Motors Ltd,2023-03,8,Official Peer Group,Automobiles,,,reports\radar_charts\TATAMOTORS.png
+TATAPOWER,Tata Power Company Ltd,2024-03,8,Official Peer Group,Power & Utilities,,,reports\radar_charts\TATAPOWER.png
+TATASTEEL,Tata Steel Ltd,2023-03,8,Official Peer Group,Steel,,,reports\radar_charts\TATASTEEL.png
+TCS,Tata Consultancy Services Ltd,2024-03,8,Official Peer Group,IT Services,,,reports\radar_charts\TCS.png
+TECHM,Tech Mahindra Ltd,2024-03,8,Official Peer Group,IT Services,,,reports\radar_charts\TECHM.png
+TITAN,Titan Company Ltd,2024-03,8,Sector Fallback,Consumer Discretionary,,,reports\radar_charts\TITAN.png
+TORNTPHARM,Torrent Pharmaceuticals Ltd,2024-03,8,Official Peer Group,Pharmaceuticals,,,reports\radar_charts\TORNTPHARM.png
+TRENT,Trent Ltd,2024-03,8,Sector Fallback,Consumer Discretionary,,,reports\radar_charts\TRENT.png
+TVSMOTOR,TVS Motor Company Ltd,2024-03,8,Official Peer Group,Automobiles,,,reports\radar_charts\TVSMOTOR.png
