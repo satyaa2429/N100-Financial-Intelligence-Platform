@@ -1,0 +1,1 @@
+"""Nifty 100 REST API package."""

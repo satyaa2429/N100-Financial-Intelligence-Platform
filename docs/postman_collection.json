@@ -1,0 +1,160 @@
+{
+  "info": {
+    "_postman_id": "nifty100-financial-intelligence-api-v1",
+    "name": "Nifty 100 Financial Intelligence API",
+    "description": "Postman collection for the 16 REST endpoints of the Nifty 100 Financial Intelligence Platform.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "base_url",
+      "value": "http://127.0.0.1:8000"
+    }
+  ],
+  "item": [
+    {
+      "name": "01 - List Companies",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{base_url}}/api/v1/companies"
+      },
+      "response": []
+    },
+    {
+      "name": "02 - Company Profile - TCS",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{base_url}}/api/v1/companies/TCS"
+      },
+      "response": []
+    },
+    {
+      "name": "03 - TCS Profit and Loss",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{base_url}}/api/v1/companies/TCS/pl"
+      },
+      "response": []
+    },
+    {
+      "name": "04 - TCS Balance Sheet",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{base_url}}/api/v1/companies/TCS/bs"
+      },
+      "response": []
+    },
+    {
+      "name": "05 - TCS Cash Flow",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{base_url}}/api/v1/companies/TCS/cashflow"
+      },
+      "response": []
+    },
+    {
+      "name": "06 - TCS Financial Ratios",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{base_url}}/api/v1/companies/TCS/ratios"
+      },
+      "response": []
+    },
+    {
+      "name": "07 - TCS Tearsheet",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{base_url}}/api/v1/companies/TCS/tearsheet"
+      },
+      "response": []
+    },
+    {
+      "name": "08 - Screener",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{base_url}}/api/v1/screener?min_roe=10&max_de=2"
+      },
+      "response": []
+    },
+    {
+      "name": "09 - Sector Statistics",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{base_url}}/api/v1/sectors"
+      },
+      "response": []
+    },
+    {
+      "name": "10 - Sector Companies",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{base_url}}/api/v1/sectors/Communication%20Services/companies"
+      },
+      "response": []
+    },
+    {
+      "name": "11 - Peer Group",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{base_url}}/api/v1/peers/Automobiles"
+      },
+      "response": []
+    },
+    {
+      "name": "12 - Peer Comparison",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{base_url}}/api/v1/companies/BAJAJ-AUTO/peers/compare"
+      },
+      "response": []
+    },
+    {
+      "name": "13 - TCS Market Cap",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{base_url}}/api/v1/market-cap/TCS"
+      },
+      "response": []
+    },
+    {
+      "name": "14 - Portfolio Statistics",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{base_url}}/api/v1/portfolio/stats"
+      },
+      "response": []
+    },
+    {
+      "name": "15 - TCS Documents",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{base_url}}/api/v1/companies/TCS/documents"
+      },
+      "response": []
+    },
+    {
+      "name": "16 - Health Check",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{base_url}}/api/v1/health"
+      },
+      "response": []
+    }
+  ]
+}

@@ -35,6 +35,7 @@ VALUATION_METRICS = {
 
 
 def load_ranking_data() -> pd.DataFrame:
+    """Load aligned data required for composite ranking."""
     query = """
         SELECT
             c.id AS company_id,
@@ -83,6 +84,7 @@ def sector_percentile(
     column: str,
     higher_is_better: bool = True,
 ) -> pd.Series:
+    """Calculate sector-relative percentile scores for a metric."""
     values = pd.to_numeric(
         frame[column],
         errors="coerce",
@@ -104,6 +106,7 @@ def sector_percentile(
 
 
 def build_ranking() -> pd.DataFrame:
+    """Build the sector-relative composite company ranking."""
     frame = load_ranking_data()
 
     # Profitability
@@ -211,6 +214,7 @@ def export_ranking(
     frame: pd.DataFrame,
 ) -> None:
 
+    """Export the composite ranking to an Excel workbook."""
     OUTPUT_PATH.parent.mkdir(
         parents=True,
         exist_ok=True,
@@ -244,6 +248,7 @@ def export_ranking(
 
 
 def main() -> None:
+    """Run the ranking and export workflow."""
     ranking = build_ranking()
 
     export_ranking(ranking)

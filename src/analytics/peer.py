@@ -37,6 +37,7 @@ METRICS = [
 
 
 def load_peer_data() -> pd.DataFrame:
+    """Load peer-group and supporting company data."""
     query = """
         SELECT
             pg.peer_group_name,
@@ -124,6 +125,7 @@ def percent_rank(values: pd.Series) -> pd.Series:
 
 
 def build_peer_percentiles() -> pd.DataFrame:
+    """Compute peer-group percentile metrics for all companies."""
     source = load_peer_data()
 
     rows = []
@@ -174,6 +176,7 @@ def save_peer_percentiles(
     frame: pd.DataFrame,
 ) -> None:
 
+    """Save computed peer-percentile data to the project output."""
     with sqlite3.connect(DB_PATH) as conn:
         conn.execute("PRAGMA foreign_keys = ON")
 
@@ -216,6 +219,7 @@ def save_peer_percentiles(
 
 
 def main() -> None:
+    """Run the peer-analysis workflow."""
     frame = build_peer_percentiles()
     save_peer_percentiles(frame)
 

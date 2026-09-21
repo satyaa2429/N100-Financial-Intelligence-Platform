@@ -41,6 +41,7 @@ METRICS = [
 
 
 def load_data():
+    """Load data required for the peer-comparison workbook."""
     with sqlite3.connect(DB_PATH) as conn:
 
         percentiles = pd.read_sql_query(
@@ -83,6 +84,7 @@ def load_data():
 
 
 def safe_sheet_name(name):
+    """Return an Excel-safe worksheet name."""
     name = re.sub(r'[:\\/?*\[\]]', "_", name)
     return name[:31]
 
@@ -93,6 +95,7 @@ def build_group_table(
     companies,
     peers,
 ):
+    """Build the comparison table for one peer group."""
     members = peers[
         peers["peer_group"] == group
     ].copy()
@@ -162,6 +165,7 @@ def build_group_table(
 
 def style_sheet(ws, row_count, col_count):
 
+    """Apply formatting to a peer-comparison worksheet."""
     header_fill = PatternFill(
         "solid",
         fgColor="1F4E78",
@@ -297,6 +301,7 @@ def style_sheet(ws, row_count, col_count):
 
 def main():
 
+    """Generate the peer-comparison Excel workbook."""
     percentiles, companies, peers = (
         load_data()
     )

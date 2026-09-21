@@ -27,3 +27,22 @@ data/nifty100.db
 
 # Duplicate root log
 /ratio_edge_cases.log
+
+# Runtime logs
+api_stdout.log
+api_stderr.log
+
+# Local backups
+*.d45_backup
+
+# Temporary files
+~$*
+project_tree.txt
+
+# Final packaged archive / duplicated archive folder
+output/N100_Final_Deliverables.zip
+output/final_deliverables/
+
+# Duplicate copies - canonical versions are in docs/ and reports/
+output/acceptance_checklist.pdf
+pytest_report.html

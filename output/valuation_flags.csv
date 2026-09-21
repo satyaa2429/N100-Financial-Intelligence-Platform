@@ -1,0 +1,53 @@
+﻿company_id,company_name,broad_sector,current_pe,sector_median_pe,valuation_badge,rationale
+ABB,Abbott India Ltd,Industrials,75.58,47.155,Caution,P/E 75.58x is >50% above Industrials median 47.16x
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,15.07,34.24,Discount,P/E 15.07x is >30% below Financials median 34.24x
+BAJFINANCE,Bajaj Finance Ltd,Financials,69.2,34.24,Caution,P/E 69.20x is >50% above Financials median 34.24x
+BANKBARODA,Bank of Baroda,Financials,16.89,34.24,Discount,P/E 16.89x is >30% below Financials median 34.24x
+BEL,Bharat Electronics Ltd,Industrials,17.89,47.155,Discount,P/E 17.89x is >30% below Industrials median 47.16x
+BHEL,"Bharat Heavy Electricals Limited
+",Industrials,29.8,47.155,Discount,P/E 29.80x is >30% below Industrials median 47.16x
+BOSCHLTD,Bosch Ltd,Consumer Discretionary,58.43,38.005,Caution,P/E 58.43x is >50% above Consumer Discretionary median 38.01x
+BPCL,Bharat Petroleum Corporation Ltd,Energy,68.15,44.915,Caution,P/E 68.15x is >50% above Energy median 44.91x
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Financials,16.79,34.24,Discount,P/E 16.79x is >30% below Financials median 34.24x
+COALINDIA,Coal India Ltd,Materials,34.27,55.62,Discount,P/E 34.27x is >30% below Materials median 55.62x
+DMART,Avenue Supermarts Ltd,Consumer Discretionary,72.53,38.005,Caution,P/E 72.53x is >50% above Consumer Discretionary median 38.01x
+DRREDDY,Dr Reddys Laboratories Ltd,Healthcare,11.73,47.06,Discount,P/E 11.73x is >30% below Healthcare median 47.06x
+EICHERMOT,Eicher Motors Ltd,Consumer Discretionary,15.62,38.005,Discount,P/E 15.62x is >30% below Consumer Discretionary median 38.01x
+GAIL,GAIL (India) Ltd,Energy,25.84,44.915,Discount,P/E 25.84x is >30% below Energy median 44.91x
+GODREJCP,Godrej Consumer Products Ltd,Consumer Staples,33.59,50.95,Discount,P/E 33.59x is >30% below Consumer Staples median 50.95x
+GRASIM,Grasim Industries Ltd,Industrials,79.35,47.155,Caution,P/E 79.35x is >50% above Industrials median 47.16x
+HAL,Hindustan Aeronautics Ltd,Industrials,71.89,47.155,Caution,P/E 71.89x is >50% above Industrials median 47.16x
+HINDUNILVR,"Hindustan Unilever Ltd
+",Consumer Staples,34.51,50.95,Discount,P/E 34.51x is >30% below Consumer Staples median 50.95x
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Financials,20.83,34.24,Discount,P/E 20.83x is >30% below Financials median 34.24x
+INDIGO,Interglobe Aviation Ltd,Consumer Discretionary,76.23,38.005,Caution,P/E 76.23x is >50% above Consumer Discretionary median 38.01x
+INDUSINDBK,IndusInd Bank Ltd,Financials,8.99,34.24,Discount,P/E 8.99x is >30% below Financials median 34.24x
+INFY,Infosys Ltd,Information Technology,35.99,63.63,Discount,P/E 35.99x is >30% below Information Technology median 63.63x
+IOC,"Indian Oil Corporation
+",Energy,28.61,44.915,Discount,P/E 28.61x is >30% below Energy median 44.91x
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Consumer Discretionary,60.44,38.005,Caution,P/E 60.44x is >50% above Consumer Discretionary median 38.01x
+IRFC,Indian Railway Finance Corporation Ltd,Financials,9.81,34.24,Discount,P/E 9.81x is >30% below Financials median 34.24x
+JSWENERGY,JSW Energy Ltd,Energy,24.79,44.915,Discount,P/E 24.79x is >30% below Energy median 44.91x
+LT,Larsen & Toubro Ltd,Industrials,30.8,47.155,Discount,P/E 30.80x is >30% below Industrials median 47.16x
+M&M,"Mahindra & Mahindra Ltd
+",Consumer Discretionary,14.22,38.005,Discount,P/E 14.22x is >30% below Consumer Discretionary median 38.01x
+MARUTI,Maruti Suzuki India Ltd,Consumer Discretionary,20.78,38.005,Discount,P/E 20.78x is >30% below Consumer Discretionary median 38.01x
+MOTHERSON,Samvardhana Motherson International Ltd,Consumer Discretionary,9.54,38.005,Discount,P/E 9.54x is >30% below Consumer Discretionary median 38.01x
+NAUKRI,Info Edge (India) Ltd,Communication Services,32.88,48.33,Discount,P/E 32.88x is >30% below Communication Services median 48.33x
+NHPC,"NHPC Ltd
+",Energy,71.17,44.915,Caution,P/E 71.17x is >50% above Energy median 44.91x
+NTPC,NTPC Ltd,Energy,30.8,44.915,Discount,P/E 30.80x is >30% below Energy median 44.91x
+ONGC,Oil & Natural Gas Corpn Ltd,Energy,18.15,44.915,Discount,P/E 18.15x is >30% below Energy median 44.91x
+PIDILITIND,Pidilite Industries Ltd,Materials,36.12,55.62,Discount,P/E 36.12x is >30% below Materials median 55.62x
+PNB,Punjab National Bank,Financials,19.29,34.24,Discount,P/E 19.29x is >30% below Financials median 34.24x
+SBILIFE,SBI Life Insurance Company Ltd,Financials,69.98,34.24,Caution,P/E 69.98x is >50% above Financials median 34.24x
+SBIN,State Bank of India,Financials,54.93,34.24,Caution,P/E 54.93x is >50% above Financials median 34.24x
+SHREECEM,Shree Cement Ltd,Materials,25.87,55.62,Discount,P/E 25.87x is >30% below Materials median 55.62x
+SHRIRAMFIN,"Shriram Finance Ltd
+",Financials,68.53,34.24,Caution,P/E 68.53x is >50% above Financials median 34.24x
+TATAMOTORS,Tata Motors Ltd,Consumer Discretionary,67.07,38.005,Caution,P/E 67.07x is >50% above Consumer Discretionary median 38.01x
+TATAPOWER,"Tata Power Company Ltd
+",Energy,14.5,44.915,Discount,P/E 14.50x is >30% below Energy median 44.91x
+TITAN,"Titan Company Ltd
+",Consumer Discretionary,10.13,38.005,Discount,P/E 10.13x is >30% below Consumer Discretionary median 38.01x
+TRENT,Trent Ltd,Consumer Discretionary,8.65,38.005,Discount,P/E 8.65x is >30% below Consumer Discretionary median 38.01x

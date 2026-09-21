@@ -13,6 +13,7 @@ OUTPUT = Path("output/screener_output.xlsx")
 
 
 def format_workbook(path: Path) -> None:
+    """Apply presentation formatting to the screener workbook."""
     workbook = load_workbook(path)
 
     for sheet in workbook.worksheets:
@@ -62,6 +63,7 @@ def format_workbook(path: Path) -> None:
 
 
 def main() -> None:
+    """Generate the formatted screener workbook."""
     ranking = build_ranking()
     engine = ScreenerEngine()
 

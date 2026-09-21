@@ -32,6 +32,7 @@ METRICS = [
 
 
 def load_data():
+    """Load company, peer, and metric data for radar charts."""
     with sqlite3.connect(DB_PATH) as conn:
 
         companies = pd.read_sql_query(
@@ -86,6 +87,7 @@ def choose_company_year(
     company_id: str,
 ) -> pd.Series:
 
+    """Choose the best available financial year for a company."""
     rows = ratios[
         ratios["company_id"] == company_id
     ].copy()
@@ -116,6 +118,7 @@ def get_comparison_group(
     peers: pd.DataFrame,
 ):
 
+    """Return the peer-comparison group for a company."""
     official = peers[
         peers["company_id"] == company_id
     ]
@@ -157,6 +160,7 @@ def reference_values(
     target_year: str,
 ):
 
+    """Calculate reference values used for radar metrics."""
     same_year = pd.to_numeric(
         ratios.loc[
             (ratios["company_id"].isin(members))
@@ -190,6 +194,7 @@ def normalise(
     higher_is_better: bool,
 ):
 
+    """Normalise a metric value for radar-chart comparison."""
     if pd.isna(value):
         return np.nan
 
@@ -231,6 +236,7 @@ def normalise(
 
 
 def safe_filename(company_id: str) -> str:
+    """Return a filesystem-safe filename."""
     cleaned = re.sub(
         r"[^A-Za-z0-9._-]+",
         "_",
@@ -248,6 +254,7 @@ def generate_chart(
     ratios,
 ):
 
+    """Generate and save a company peer-comparison radar chart."""
     labels = []
     company_scores = []
     average_scores = []
@@ -454,6 +461,7 @@ def generate_chart(
 
 def main():
 
+    """Generate radar charts for the configured company universe."""
     companies, peers, ratios = load_data()
 
     OUTPUT_DIR.mkdir(

@@ -1,0 +1,658 @@
+﻿company_id,type,rule_triggered,text,confidence_pct
+ABB,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 84.5%.,75
+ABB,pro,PRO_01_STRONG_ROE,Strong ROE of 32.5%.,90
+ABB,pro,PRO_02_STRONG_ROCE,Strong ROCE of 36.5%.,90
+ABB,pro,PRO_03_LOW_DEBT,Very low debt-to-equity ratio of 0.02.,90
+ABB,pro,PRO_04_STRONG_ICR,Strong interest coverage of 141.8x.,85
+ABB,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 21.7%.,85
+ABB,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 21.7%.,85
+ABB,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 5.03x.,90
+ABB,pro,PRO_11_FCF_CONVERSION,Strong FCF conversion of 75.4%.,85
+ADANIENSOL,con,CON_01_LOW_ROE,Low ROE of 9.5%.,85
+ADANIENSOL,con,CON_02_LOW_ROCE,Low ROCE of 7.9%.,85
+ADANIENSOL,con,CON_03_HIGH_DEBT,High debt-to-equity ratio of 2.93.,90
+ADANIENSOL,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 29.8%.,75
+ADANIENSOL,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of 19.2%.,85
+ADANIENSOL,pro,PRO_06_REVENUE_GROWTH,Strong 5-year revenue CAGR of 17.9%.,85
+ADANIENSOL,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 16.4%.,85
+ADANIENSOL,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 14.9%.,85
+ADANIENSOL,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 5.05x.,90
+ADANIENT,con,CON_01_LOW_ROE,Low ROE of 8.5%.,85
+ADANIENT,con,CON_02_LOW_ROCE,Low ROCE of 8.0%.,85
+ADANIENT,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 19.5%.,75
+ADANIENT,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of -74.3%.,85
+ADANIENT,pro,PRO_06_REVENUE_GROWTH,Strong 5-year revenue CAGR of 19.0%.,85
+ADANIENT,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 45.8%.,85
+ADANIENT,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 32.0%.,85
+ADANIENT,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 3.09x.,90
+ADANIGREEN,con,CON_02_LOW_ROCE,Low ROCE of 7.2%.,85
+ADANIGREEN,con,CON_03_HIGH_DEBT,High debt-to-equity ratio of 6.60.,90
+ADANIGREEN,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 228.4%.,75
+ADANIGREEN,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of -182.4%.,85
+ADANIGREEN,pro,PRO_06_REVENUE_GROWTH,Strong 5-year revenue CAGR of 35.0%.,85
+ADANIGREEN,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 6.12x.,90
+ADANIPORTS,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 25.3%.,75
+ADANIPORTS,pro,PRO_06_REVENUE_GROWTH,Strong 5-year revenue CAGR of 19.6%.,85
+ADANIPORTS,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 14.9%.,85
+ADANIPORTS,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.85x.,90
+ADANIPOWER,con,CON_99_VALUATION_CAUTION,Latest available P/E is 44.6x; valuation should be reviewed against sector peers.,70
+ADANIPOWER,pro,PRO_01_STRONG_ROE,Strong ROE of 48.3%.,90
+ADANIPOWER,pro,PRO_05_POSITIVE_FCF_5Y,Free cash flow remained positive in each of the last 5 annual periods.,95
+ADANIPOWER,pro,PRO_06_REVENUE_GROWTH,Strong 5-year revenue CAGR of 16.1%.,85
+ADANIPOWER,pro,PRO_11_FCF_CONVERSION,Strong FCF conversion of 96.8%.,85
+AMBUJACEM,con,CON_06_WEAK_REVENUE_GROWTH,Weak 5-year revenue CAGR of 4.1%.,80
+AMBUJACEM,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 27.0%.,75
+AMBUJACEM,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of -51.5%.,85
+AMBUJACEM,pro,PRO_03_LOW_DEBT,Very low debt-to-equity ratio of 0.02.,90
+AMBUJACEM,pro,PRO_04_STRONG_ICR,Strong interest coverage of 28.3x.,85
+AMBUJACEM,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.19x.,90
+APOLLOHOSP,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 8.1%.,75
+APOLLOHOSP,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of 16.0%.,85
+APOLLOHOSP,pro,PRO_05_POSITIVE_FCF_5Y,Free cash flow remained positive in each of the last 5 annual periods.,95
+APOLLOHOSP,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 36.1%.,85
+APOLLOHOSP,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 30.0%.,85
+APOLLOHOSP,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 2.05x.,90
+ASIANPAINT,con,CON_99_VALUATION_CAUTION,Latest available P/E is 73.4x; valuation should be reviewed against sector peers.,70
+ASIANPAINT,pro,PRO_01_STRONG_ROE,Strong ROE of 29.7%.,90
+ASIANPAINT,pro,PRO_02_STRONG_ROCE,Strong ROCE of 31.8%.,90
+ASIANPAINT,pro,PRO_04_STRONG_ICR,Strong interest coverage of 41.0x.,85
+ASIANPAINT,pro,PRO_05_POSITIVE_FCF_5Y,Free cash flow remained positive in each of the last 5 annual periods.,95
+ASIANPAINT,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 20.3%.,85
+ASIANPAINT,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 21.0%.,85
+ASIANPAINT,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.10x.,90
+ASIANPAINT,pro,PRO_12_BALANCED_DIVIDEND,Balanced dividend payout ratio of 58.0%.,75
+ATGL,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 16.8%.,75
+ATGL,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of 18.4%.,85
+ATGL,pro,PRO_04_STRONG_ICR,Strong interest coverage of 10.5x.,85
+ATGL,pro,PRO_06_REVENUE_GROWTH,Strong 5-year revenue CAGR of 21.1%.,85
+ATGL,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 23.9%.,85
+ATGL,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 24.6%.,85
+ATGL,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.43x.,90
+AXISBANK,con,CON_02_LOW_ROCE,Low ROCE of 2.5%.,85
+AXISBANK,con,CON_09_ACCRUAL_RISK,Low CFO/PAT ratio of -0.22x.,90
+AXISBANK,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 8.2%.,75
+AXISBANK,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of -38.4%.,85
+AXISBANK,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 39.7%.,85
+AXISBANK,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 35.1%.,85
+BAJAJ-AUTO,con,CON_99_MODERATE_REVENUE_GROWTH,"Five-year revenue CAGR is 8.1%, indicating moderate growth.",70
+BAJAJ-AUTO,pro,PRO_01_STRONG_ROE,Strong ROE of 26.6%.,90
+BAJAJ-AUTO,pro,PRO_02_STRONG_ROCE,Strong ROCE of 27.2%.,90
+BAJAJ-AUTO,pro,PRO_03_LOW_DEBT,Very low debt-to-equity ratio of 0.07.,90
+BAJAJ-AUTO,pro,PRO_04_STRONG_ICR,Strong interest coverage of 174.4x.,85
+BAJAJ-AUTO,pro,PRO_05_POSITIVE_FCF_5Y,Free cash flow remained positive in each of the last 5 annual periods.,95
+BAJAJ-AUTO,pro,PRO_10_ASSET_LIGHT,Low CapEx intensity of 0.2%.,75
+BAJAJ-AUTO,pro,PRO_11_FCF_CONVERSION,Strong FCF conversion of 74.0%.,85
+BAJAJFINSV,con,CON_05_NEGATIVE_FCF_3Y,Free cash flow remained negative for 3 consecutive annual periods.,95
+BAJAJFINSV,con,CON_09_ACCRUAL_RISK,Low CFO/PAT ratio of -4.40x.,90
+BAJAJFINSV,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 9.9%.,75
+BAJAJFINSV,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of -194.8%.,85
+BAJAJFINSV,pro,PRO_01_STRONG_ROE,Strong ROE of 25.9%.,90
+BAJAJFINSV,pro,PRO_06_REVENUE_GROWTH,Strong 5-year revenue CAGR of 21.0%.,85
+BAJAJFINSV,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 23.7%.,85
+BAJAJFINSV,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 20.6%.,85
+BAJAJHLDNG,con,CON_02_LOW_ROCE,Low ROCE of 2.8%.,85
+BAJAJHLDNG,con,CON_09_ACCRUAL_RISK,Low CFO/PAT ratio of 0.26x.,90
+BAJAJHLDNG,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 27.7%.,75
+BAJAJHLDNG,pro,PRO_03_LOW_DEBT,Very low debt-to-equity ratio of 0.00.,90
+BAJAJHLDNG,pro,PRO_04_STRONG_ICR,Strong interest coverage of 3764.5x.,85
+BAJAJHLDNG,pro,PRO_06_REVENUE_GROWTH,Strong 5-year revenue CAGR of 31.6%.,85
+BAJAJHLDNG,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 19.3%.,85
+BAJAJHLDNG,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 19.0%.,85
+BAJAJHLDNG,pro,PRO_11_FCF_CONVERSION,Strong FCF conversion of 94.0%.,85
+BAJFINANCE,con,CON_02_LOW_ROCE,Low ROCE of 4.2%.,85
+BAJFINANCE,con,CON_05_NEGATIVE_FCF_3Y,Free cash flow remained negative for 3 consecutive annual periods.,95
+BAJFINANCE,con,CON_09_ACCRUAL_RISK,Low CFO/PAT ratio of -5.03x.,90
+BAJFINANCE,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 13.0%.,75
+BAJFINANCE,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of -496.5%.,85
+BAJFINANCE,con,CON_12_DECLINING_OPM,Operating profit margin declined in each of the last 3 annual periods.,85
+BAJFINANCE,pro,PRO_06_REVENUE_GROWTH,Strong 5-year revenue CAGR of 24.4%.,85
+BAJFINANCE,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 29.3%.,85
+BAJFINANCE,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 27.6%.,85
+BANKBARODA,con,CON_02_LOW_ROCE,Low ROCE of 2.7%.,85
+BANKBARODA,con,CON_09_ACCRUAL_RISK,Low CFO/PAT ratio of -0.33x.,90
+BANKBARODA,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of -17.0%.,85
+BANKBARODA,con,CON_12_DECLINING_OPM,Operating profit margin declined in each of the last 3 annual periods.,85
+BANKBARODA,pro,PRO_06_REVENUE_GROWTH,Strong 5-year revenue CAGR of 17.5%.,85
+BANKBARODA,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 74.5%.,85
+BANKBARODA,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 55.2%.,85
+BANKBARODA,pro,PRO_10_ASSET_LIGHT,Low CapEx intensity of 1.1%.,75
+BEL,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 29.2%.,75
+BEL,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of -25.0%.,85
+BEL,pro,PRO_01_STRONG_ROE,Strong ROE of 4744.0%.,90
+BEL,pro,PRO_02_STRONG_ROCE,Strong ROCE of 3628.3%.,90
+BEL,pro,PRO_04_STRONG_ICR,Strong interest coverage of 476.8x.,85
+BEL,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 16.1%.,85
+BEL,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.17x.,90
+BEL,pro,PRO_12_BALANCED_DIVIDEND,Balanced dividend payout ratio of 40.0%.,75
+BHARTIARTL,con,CON_03_HIGH_DEBT,High debt-to-equity ratio of 2.61.,90
+BHARTIARTL,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 34.1%.,75
+BHARTIARTL,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 38.4%.,85
+BHARTIARTL,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 67.0%.,85
+BHARTIARTL,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 9.22x.,90
+BHEL,con,CON_01_LOW_ROE,Low ROE of 1.2%.,85
+BHEL,con,CON_02_LOW_ROCE,Low ROCE of 1.4%.,85
+BHEL,con,CON_06_WEAK_REVENUE_GROWTH,Weak 5-year revenue CAGR of -4.7%.,80
+BHEL,con,CON_07_WEAK_PAT_GROWTH,Weak 5-year PAT CAGR of -22.4%.,80
+BHEL,con,CON_08_WEAK_EPS_GROWTH,Weak 5-year EPS CAGR of -19.7%.,80
+BHEL,con,CON_09_ACCRUAL_RISK,Low CFO/PAT ratio of -13.17x.,90
+BHEL,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of -335.0%.,85
+BHEL,pro,PRO_12_BALANCED_DIVIDEND,Balanced dividend payout ratio of 31.0%.,75
+BOSCHLTD,con,CON_99_VALUATION_CAUTION,Latest available P/E is 58.4x; valuation should be reviewed against sector peers.,70
+BOSCHLTD,pro,PRO_01_STRONG_ROE,Strong ROE of 20.6%.,90
+BOSCHLTD,pro,PRO_03_LOW_DEBT,Very low debt-to-equity ratio of 0.00.,90
+BOSCHLTD,pro,PRO_04_STRONG_ICR,Strong interest coverage of 71.8x.,85
+BOSCHLTD,pro,PRO_05_POSITIVE_FCF_5Y,Free cash flow remained positive in each of the last 5 annual periods.,95
+BOSCHLTD,pro,PRO_10_ASSET_LIGHT,Low CapEx intensity of 1.7%.,75
+BOSCHLTD,pro,PRO_11_FCF_CONVERSION,Strong FCF conversion of 73.3%.,85
+BOSCHLTD,pro,PRO_12_BALANCED_DIVIDEND,Balanced dividend payout ratio of 44.0%.,75
+BPCL,con,CON_99_VALUATION_CAUTION,Latest available P/E is 68.2x; valuation should be reviewed against sector peers.,70
+BPCL,pro,PRO_01_STRONG_ROE,Strong ROE of 35.5%.,90
+BPCL,pro,PRO_02_STRONG_ROCE,Strong ROCE of 28.6%.,90
+BPCL,pro,PRO_04_STRONG_ICR,Strong interest coverage of 11.4x.,85
+BPCL,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 25.8%.,85
+BPCL,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 28.1%.,85
+BPCL,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.34x.,90
+BPCL,pro,PRO_10_ASSET_LIGHT,Low CapEx intensity of 2.3%.,75
+BPCL,pro,PRO_12_BALANCED_DIVIDEND,Balanced dividend payout ratio of 33.0%.,75
+BRITANNIA,con,CON_99_VALUATION_CAUTION,Latest available P/E is 63.9x; valuation should be reviewed against sector peers.,70
+BRITANNIA,pro,PRO_01_STRONG_ROE,Strong ROE of 54.1%.,90
+BRITANNIA,pro,PRO_02_STRONG_ROCE,Strong ROCE of 47.7%.,90
+BRITANNIA,pro,PRO_04_STRONG_ICR,Strong interest coverage of 20.6x.,85
+BRITANNIA,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 13.1%.,85
+BRITANNIA,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.21x.,90
+BRITANNIA,pro,PRO_10_ASSET_LIGHT,Low CapEx intensity of 2.8%.,75
+BRITANNIA,pro,PRO_11_FCF_CONVERSION,Strong FCF conversion of 96.3%.,85
+CANBK,con,CON_02_LOW_ROCE,Low ROCE of 3.1%.,85
+CANBK,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of 28.8%.,85
+CANBK,con,CON_12_DECLINING_OPM,Operating profit margin declined in each of the last 3 annual periods.,85
+CANBK,pro,PRO_06_REVENUE_GROWTH,Strong 5-year revenue CAGR of 18.2%.,85
+CANBK,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 85.8%.,85
+CANBK,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 53.4%.,85
+CANBK,pro,PRO_10_ASSET_LIGHT,Low CapEx intensity of 1.6%.,75
+CHOLAFIN,con,CON_02_LOW_ROCE,Low ROCE of 3.4%.,85
+CHOLAFIN,con,CON_05_NEGATIVE_FCF_3Y,Free cash flow remained negative for 3 consecutive annual periods.,95
+CHOLAFIN,con,CON_09_ACCRUAL_RISK,Low CFO/PAT ratio of -10.43x.,90
+CHOLAFIN,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 14.9%.,75
+CHOLAFIN,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of -715.7%.,85
+CHOLAFIN,con,CON_12_DECLINING_OPM,Operating profit margin declined in each of the last 3 annual periods.,85
+CHOLAFIN,pro,PRO_06_REVENUE_GROWTH,Strong 5-year revenue CAGR of 21.9%.,85
+CHOLAFIN,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 23.4%.,85
+CHOLAFIN,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 22.3%.,85
+CIPLA,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 11.6%.,75
+CIPLA,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of 5.9%.,85
+CIPLA,con,CON_12_DECLINING_OPM,Operating profit margin declined in each of the last 3 annual periods.,85
+CIPLA,pro,PRO_02_STRONG_ROCE,Strong ROCE of 67.6%.,90
+CIPLA,pro,PRO_03_LOW_DEBT,Very low debt-to-equity ratio of 0.02.,90
+CIPLA,pro,PRO_04_STRONG_ICR,Strong interest coverage of 35.3x.,85
+CIPLA,pro,PRO_05_POSITIVE_FCF_5Y,Free cash flow remained positive in each of the last 5 annual periods.,95
+CIPLA,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 22.7%.,85
+CIPLA,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 21.8%.,85
+COALINDIA,con,CON_09_ACCRUAL_RISK,Low CFO/PAT ratio of 0.48x.,90
+COALINDIA,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of 14.4%.,85
+COALINDIA,con,CON_12_DECLINING_OPM,Operating profit margin declined in each of the last 3 annual periods.,85
+COALINDIA,pro,PRO_01_STRONG_ROE,Strong ROE of 45.2%.,90
+COALINDIA,pro,PRO_02_STRONG_ROCE,Strong ROCE of 98.2%.,90
+COALINDIA,pro,PRO_03_LOW_DEBT,Very low debt-to-equity ratio of 0.08.,90
+COALINDIA,pro,PRO_04_STRONG_ICR,Strong interest coverage of 11.2x.,85
+COALINDIA,pro,PRO_05_POSITIVE_FCF_5Y,Free cash flow remained positive in each of the last 5 annual periods.,95
+COALINDIA,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 16.4%.,85
+COALINDIA,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 16.9%.,85
+COALINDIA,pro,PRO_12_BALANCED_DIVIDEND,Balanced dividend payout ratio of 42.0%.,75
+DABUR,con,CON_07_WEAK_PAT_GROWTH,Weak 5-year PAT CAGR of 4.6%.,80
+DABUR,con,CON_08_WEAK_EPS_GROWTH,Weak 5-year EPS CAGR of 4.6%.,80
+DABUR,pro,PRO_04_STRONG_ICR,Strong interest coverage of 23.2x.,85
+DABUR,pro,PRO_05_POSITIVE_FCF_5Y,Free cash flow remained positive in each of the last 5 annual periods.,95
+DABUR,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.11x.,90
+DABUR,pro,PRO_12_BALANCED_DIVIDEND,Balanced dividend payout ratio of 53.0%.,75
+DIVISLAB,con,CON_07_WEAK_PAT_GROWTH,Weak 5-year PAT CAGR of 3.4%.,80
+DIVISLAB,con,CON_08_WEAK_EPS_GROWTH,Weak 5-year EPS CAGR of 3.3%.,80
+DIVISLAB,con,CON_12_DECLINING_OPM,Operating profit margin declined in each of the last 3 annual periods.,85
+DIVISLAB,pro,PRO_03_LOW_DEBT,Very low debt-to-equity ratio of 0.00.,90
+DIVISLAB,pro,PRO_04_STRONG_ICR,Strong interest coverage of 636.2x.,85
+DIVISLAB,pro,PRO_12_BALANCED_DIVIDEND,Balanced dividend payout ratio of 50.0%.,75
+DLF,con,CON_01_LOW_ROE,Low ROE of 6.9%.,85
+DLF,con,CON_02_LOW_ROCE,Low ROCE of 4.5%.,85
+DLF,con,CON_06_WEAK_REVENUE_GROWTH,Weak 5-year revenue CAGR of -5.1%.,80
+DLF,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 23.8%.,75
+DLF,pro,PRO_05_POSITIVE_FCF_5Y,Free cash flow remained positive in each of the last 5 annual periods.,95
+DLF,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 15.7%.,85
+DLF,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 12.9%.,85
+DLF,pro,PRO_12_BALANCED_DIVIDEND,Balanced dividend payout ratio of 45.0%.,75
+DMART,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of 6.8%.,85
+DMART,pro,PRO_03_LOW_DEBT,Very low debt-to-equity ratio of 0.03.,90
+DMART,pro,PRO_04_STRONG_ICR,Strong interest coverage of 73.3x.,85
+DMART,pro,PRO_06_REVENUE_GROWTH,Strong 5-year revenue CAGR of 20.5%.,85
+DMART,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 23.0%.,85
+DMART,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 22.7%.,85
+DMART,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.08x.,90
+DRREDDY,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 14.4%.,75
+DRREDDY,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of 6.4%.,85
+DRREDDY,pro,PRO_02_STRONG_ROCE,Strong ROCE of 21.4%.,90
+DRREDDY,pro,PRO_03_LOW_DEBT,Very low debt-to-equity ratio of 0.07.,90
+DRREDDY,pro,PRO_04_STRONG_ICR,Strong interest coverage of 51.7x.,85
+DRREDDY,pro,PRO_05_POSITIVE_FCF_5Y,Free cash flow remained positive in each of the last 5 annual periods.,95
+DRREDDY,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 23.4%.,85
+DRREDDY,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 23.8%.,85
+EICHERMOT,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 17.1%.,75
+EICHERMOT,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of 20.6%.,85
+EICHERMOT,pro,PRO_01_STRONG_ROE,Strong ROE of 22.2%.,90
+EICHERMOT,pro,PRO_02_STRONG_ROCE,Strong ROCE of 20.2%.,90
+EICHERMOT,pro,PRO_03_LOW_DEBT,Very low debt-to-equity ratio of 0.02.,90
+EICHERMOT,pro,PRO_04_STRONG_ICR,Strong interest coverage of 114.7x.,85
+EICHERMOT,pro,PRO_05_POSITIVE_FCF_5Y,Free cash flow remained positive in each of the last 5 annual periods.,95
+EICHERMOT,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 12.5%.,85
+EICHERMOT,pro,PRO_12_BALANCED_DIVIDEND,Balanced dividend payout ratio of 35.0%.,75
+GAIL,con,CON_99_MODERATE_PROFIT_GROWTH,"Five-year PAT CAGR is 8.6%, indicating moderate profit growth.",70
+GAIL,pro,PRO_04_STRONG_ICR,Strong interest coverage of 23.6x.,85
+GAIL,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.27x.,90
+GAIL,pro,PRO_12_BALANCED_DIVIDEND,Balanced dividend payout ratio of 37.0%.,75
+GODREJCP,con,CON_01_LOW_ROE,Low ROE of -4.5%.,85
+GODREJCP,con,CON_09_ACCRUAL_RISK,Low CFO/PAT ratio of -3.69x.,90
+GODREJCP,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 24.4%.,75
+GODREJCP,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of -46.2%.,85
+GODREJCP,pro,PRO_99_LOW_LEVERAGE,Latest available debt-to-equity is relatively low at 0.26.,70
+GRASIM,con,CON_02_LOW_ROCE,Low ROCE of 9.8%.,85
+GRASIM,con,CON_09_ACCRUAL_RISK,Low CFO/PAT ratio of -1.08x.,90
+GRASIM,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 17.6%.,75
+GRASIM,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of -124.4%.,85
+GRASIM,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 29.3%.,85
+GRASIM,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 27.7%.,85
+HAL,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 21.1%.,75
+HAL,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of 18.6%.,85
+HAL,pro,PRO_01_STRONG_ROE,Strong ROE of 3816.6%.,90
+HAL,pro,PRO_02_STRONG_ROCE,Strong ROCE of 2591.0%.,90
+HAL,pro,PRO_04_STRONG_ICR,Strong interest coverage of 270.9x.,85
+HAL,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 26.5%.,85
+HAL,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 26.6%.,85
+HAL,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.08x.,90
+HAL,pro,PRO_12_BALANCED_DIVIDEND,Balanced dividend payout ratio of 31.0%.,75
+HAVELLS,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 8.7%.,75
+HAVELLS,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of 17.8%.,85
+HAVELLS,pro,PRO_03_LOW_DEBT,Very low debt-to-equity ratio of 0.04.,90
+HAVELLS,pro,PRO_04_STRONG_ICR,Strong interest coverage of 25.4x.,85
+HAVELLS,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.54x.,90
+HAVELLS,pro,PRO_12_BALANCED_DIVIDEND,Balanced dividend payout ratio of 44.0%.,75
+HCLTECH,con,CON_12_DECLINING_OPM,Operating profit margin declined in each of the last 3 annual periods.,85
+HCLTECH,pro,PRO_01_STRONG_ROE,Strong ROE of 23.0%.,90
+HCLTECH,pro,PRO_02_STRONG_ROCE,Strong ROCE of 27.1%.,90
+HCLTECH,pro,PRO_03_LOW_DEBT,Very low debt-to-equity ratio of 0.08.,90
+HCLTECH,pro,PRO_04_STRONG_ICR,Strong interest coverage of 46.5x.,85
+HCLTECH,pro,PRO_05_POSITIVE_FCF_5Y,Free cash flow remained positive in each of the last 5 annual periods.,95
+HCLTECH,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.43x.,90
+HCLTECH,pro,PRO_11_FCF_CONVERSION,Strong FCF conversion of 65.5%.,85
+HDFCBANK,con,CON_02_LOW_ROCE,Low ROCE of 4.8%.,85
+HDFCBANK,con,CON_09_ACCRUAL_RISK,Low CFO/PAT ratio of 0.29x.,90
+HDFCBANK,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of 20.5%.,85
+HDFCBANK,pro,PRO_06_REVENUE_GROWTH,Strong 5-year revenue CAGR of 22.0%.,85
+HDFCBANK,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 23.9%.,85
+HDFCBANK,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 15.4%.,85
+HDFCLIFE,con,CON_07_WEAK_PAT_GROWTH,Weak 5-year PAT CAGR of 4.3%.,80
+HDFCLIFE,con,CON_08_WEAK_EPS_GROWTH,Weak 5-year EPS CAGR of 3.1%.,80
+HDFCLIFE,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 13.4%.,75
+HDFCLIFE,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of -2.9%.,85
+HDFCLIFE,pro,PRO_02_STRONG_ROCE,Strong ROCE of 646.0%.,90
+HDFCLIFE,pro,PRO_06_REVENUE_GROWTH,Strong 5-year revenue CAGR of 21.2%.,85
+HDFCLIFE,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 6.81x.,90
+HEROMOTOCO,con,CON_06_WEAK_REVENUE_GROWTH,Weak 5-year revenue CAGR of 2.2%.,80
+HEROMOTOCO,con,CON_07_WEAK_PAT_GROWTH,Weak 5-year PAT CAGR of 1.5%.,80
+HEROMOTOCO,con,CON_08_WEAK_EPS_GROWTH,Weak 5-year EPS CAGR of 1.7%.,80
+HEROMOTOCO,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of 9.5%.,85
+HEROMOTOCO,con,CON_12_DECLINING_OPM,Operating profit margin declined in each of the last 3 annual periods.,85
+HEROMOTOCO,pro,PRO_01_STRONG_ROE,Strong ROE of 21.1%.,90
+HEROMOTOCO,pro,PRO_02_STRONG_ROCE,Strong ROCE of 173.7%.,90
+HEROMOTOCO,pro,PRO_03_LOW_DEBT,Very low debt-to-equity ratio of 0.03.,90
+HEROMOTOCO,pro,PRO_04_STRONG_ICR,Strong interest coverage of 47.3x.,85
+HEROMOTOCO,pro,PRO_05_POSITIVE_FCF_5Y,Free cash flow remained positive in each of the last 5 annual periods.,95
+HEROMOTOCO,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.32x.,90
+HINDALCO,con,CON_01_LOW_ROE,Low ROE of 9.6%.,85
+HINDALCO,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of 5.1%.,85
+HINDALCO,pro,PRO_02_STRONG_ROCE,Strong ROCE of 113.6%.,90
+HINDALCO,pro,PRO_04_STRONG_ICR,Strong interest coverage of 126.5x.,85
+HINDALCO,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 13.4%.,85
+HINDALCO,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 2.37x.,90
+HINDUNILVR,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 8.6%.,75
+HINDUNILVR,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of 21.5%.,85
+HINDUNILVR,pro,PRO_01_STRONG_ROE,Strong ROE of 20.1%.,90
+HINDUNILVR,pro,PRO_02_STRONG_ROCE,Strong ROCE of 87.3%.,90
+HINDUNILVR,pro,PRO_03_LOW_DEBT,Very low debt-to-equity ratio of 0.03.,90
+HINDUNILVR,pro,PRO_04_STRONG_ICR,Strong interest coverage of 57.8x.,85
+HINDUNILVR,pro,PRO_05_POSITIVE_FCF_5Y,Free cash flow remained positive in each of the last 5 annual periods.,95
+HINDUNILVR,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.50x.,90
+ICICIBANK,con,CON_02_LOW_ROCE,Low ROCE of 5.1%.,85
+ICICIBANK,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 90.7%.,75
+ICICIBANK,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of 12.6%.,85
+ICICIBANK,con,CON_12_DECLINING_OPM,Operating profit margin declined in each of the last 3 annual periods.,85
+ICICIBANK,pro,PRO_06_REVENUE_GROWTH,Strong 5-year revenue CAGR of 17.3%.,85
+ICICIBANK,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 51.9%.,85
+ICICIBANK,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 55.2%.,85
+ICICIBANK,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 3.41x.,90
+ICICIGI,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 9.4%.,75
+ICICIGI,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of 2.7%.,85
+ICICIGI,con,CON_12_DECLINING_OPM,Operating profit margin declined in each of the last 3 annual periods.,85
+ICICIGI,pro,PRO_02_STRONG_ROCE,Strong ROCE of 145.2%.,90
+ICICIGI,pro,PRO_05_POSITIVE_FCF_5Y,Free cash flow remained positive in each of the last 5 annual periods.,95
+ICICIGI,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.25x.,90
+ICICIPRULI,con,CON_01_LOW_ROE,Low ROE of 7.7%.,85
+ICICIPRULI,con,CON_07_WEAK_PAT_GROWTH,Weak 5-year PAT CAGR of -5.7%.,80
+ICICIPRULI,con,CON_08_WEAK_EPS_GROWTH,Weak 5-year EPS CAGR of -5.6%.,80
+ICICIPRULI,con,CON_09_ACCRUAL_RISK,Low CFO/PAT ratio of -8.60x.,90
+ICICIPRULI,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 8.2%.,75
+ICICIPRULI,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of 0.1%.,85
+ICICIPRULI,pro,PRO_02_STRONG_ROCE,Strong ROCE of 754.0%.,90
+ICICIPRULI,pro,PRO_06_REVENUE_GROWTH,Strong 5-year revenue CAGR of 16.8%.,85
+INDIGO,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 17.1%.,75
+INDIGO,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of 17.9%.,85
+INDIGO,con,CON_12_DECLINING_OPM,Operating profit margin declined in each of the last 3 annual periods.,85
+INDIGO,pro,PRO_01_STRONG_ROE,Strong ROE of 892.6%.,90
+INDIGO,pro,PRO_02_STRONG_ROCE,Strong ROCE of 4953.5%.,90
+INDIGO,pro,PRO_03_LOW_DEBT,Very low debt-to-equity ratio of 0.02.,90
+INDIGO,pro,PRO_04_STRONG_ICR,Strong interest coverage of 22.6x.,85
+INDIGO,pro,PRO_05_POSITIVE_FCF_5Y,Free cash flow remained positive in each of the last 5 annual periods.,95
+INDIGO,pro,PRO_06_REVENUE_GROWTH,Strong 5-year revenue CAGR of 19.3%.,85
+INDIGO,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 120.7%.,85
+INDIGO,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 121.2%.,85
+INDIGO,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 2.59x.,90
+INDUSINDBK,con,CON_02_LOW_ROCE,Low ROCE of 3.5%.,85
+INDUSINDBK,con,CON_09_ACCRUAL_RISK,Low CFO/PAT ratio of -1.88x.,90
+INDUSINDBK,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of -99.0%.,85
+INDUSINDBK,con,CON_12_DECLINING_OPM,Operating profit margin declined in each of the last 3 annual periods.,85
+INDUSINDBK,pro,PRO_06_REVENUE_GROWTH,Strong 5-year revenue CAGR of 15.5%.,85
+INDUSINDBK,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 22.1%.,85
+INDUSINDBK,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 15.9%.,85
+INDUSINDBK,pro,PRO_10_ASSET_LIGHT,Low CapEx intensity of 1.4%.,75
+INFY,con,CON_12_DECLINING_OPM,Operating profit margin declined in each of the last 3 annual periods.,85
+INFY,pro,PRO_01_STRONG_ROE,Strong ROE of 29.8%.,90
+INFY,pro,PRO_02_STRONG_ROCE,Strong ROCE of 32.9%.,90
+INFY,pro,PRO_03_LOW_DEBT,Very low debt-to-equity ratio of 0.09.,90
+INFY,pro,PRO_04_STRONG_ICR,Strong interest coverage of 87.5x.,85
+INFY,pro,PRO_05_POSITIVE_FCF_5Y,Free cash flow remained positive in each of the last 5 annual periods.,95
+INFY,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 12.5%.,85
+IOC,con,CON_99_MODERATE_REVENUE_GROWTH,"Five-year revenue CAGR is 8.0%, indicating moderate growth.",70
+IOC,pro,PRO_01_STRONG_ROE,Strong ROE of 23.5%.,90
+IOC,pro,PRO_04_STRONG_ICR,Strong interest coverage of 10.3x.,85
+IOC,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 20.1%.,85
+IOC,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 20.1%.,85
+IOC,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.65x.,90
+IOC,pro,PRO_12_BALANCED_DIVIDEND,Balanced dividend payout ratio of 40.0%.,75
+IRCTC,con,CON_12_DECLINING_OPM,Operating profit margin declined in each of the last 3 annual periods.,85
+IRCTC,pro,PRO_01_STRONG_ROE,Strong ROE of 34.4%.,90
+IRCTC,pro,PRO_02_STRONG_ROCE,Strong ROCE of 42.8%.,90
+IRCTC,pro,PRO_03_LOW_DEBT,Very low debt-to-equity ratio of 0.02.,90
+IRCTC,pro,PRO_04_STRONG_ICR,Strong interest coverage of 82.7x.,85
+IRCTC,pro,PRO_06_REVENUE_GROWTH,Strong 5-year revenue CAGR of 18.0%.,85
+IRCTC,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 29.2%.,85
+IRCTC,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 28.5%.,85
+IRCTC,pro,PRO_12_BALANCED_DIVIDEND,Balanced dividend payout ratio of 47.0%.,75
+IRFC,con,CON_02_LOW_ROCE,Low ROCE of 5.7%.,85
+IRFC,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of 29.8%.,85
+IRFC,pro,PRO_06_REVENUE_GROWTH,Strong 5-year revenue CAGR of 19.1%.,85
+IRFC,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 23.2%.,85
+IRFC,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 20.1%.,85
+IRFC,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.23x.,90
+IRFC,pro,PRO_10_ASSET_LIGHT,Low CapEx intensity of 0.0%.,75
+IRFC,pro,PRO_12_BALANCED_DIVIDEND,Balanced dividend payout ratio of 31.0%.,75
+ITC,con,CON_99_VALUATION_CAUTION,Latest available P/E is 47.9x; valuation should be reviewed against sector peers.,70
+ITC,pro,PRO_01_STRONG_ROE,Strong ROE of 27.9%.,90
+ITC,pro,PRO_02_STRONG_ROCE,Strong ROCE of 32.6%.,90
+ITC,pro,PRO_03_LOW_DEBT,Very low debt-to-equity ratio of 0.00.,90
+ITC,pro,PRO_04_STRONG_ICR,Strong interest coverage of 363.0x.,85
+ITC,pro,PRO_05_POSITIVE_FCF_5Y,Free cash flow remained positive in each of the last 5 annual periods.,95
+ITC,pro,PRO_10_ASSET_LIGHT,Low CapEx intensity of 2.2%.,75
+ITC,pro,PRO_11_FCF_CONVERSION,Strong FCF conversion of 71.4%.,85
+JINDALSTEL,con,CON_06_WEAK_REVENUE_GROWTH,Weak 5-year revenue CAGR of 1.4%.,80
+JINDALSTEL,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 16.6%.,75
+JINDALSTEL,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of -22.9%.,85
+JINDALSTEL,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.01x.,90
+JIOFIN,con,CON_01_LOW_ROE,Low ROE of 1.2%.,85
+JIOFIN,con,CON_02_LOW_ROCE,Low ROCE of 1.1%.,85
+JIOFIN,con,CON_09_ACCRUAL_RISK,Low CFO/PAT ratio of -0.42x.,90
+JIOFIN,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 77.7%.,75
+JIOFIN,pro,PRO_99_POSITIVE_FCF,Latest available free cash flow is positive at Rs 763.0 Cr.,75
+JSWENERGY,con,CON_01_LOW_ROE,Low ROE of 8.3%.,85
+JSWENERGY,con,CON_02_LOW_ROCE,Low ROCE of 7.2%.,85
+JSWENERGY,con,CON_06_WEAK_REVENUE_GROWTH,Weak 5-year revenue CAGR of 4.7%.,80
+JSWENERGY,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 71.4%.,75
+JSWENERGY,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of -36.5%.,85
+JSWENERGY,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 20.3%.,85
+JSWENERGY,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 20.1%.,85
+JSWENERGY,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 3.61x.,90
+JSWSTEEL,con,CON_07_WEAK_PAT_GROWTH,Weak 5-year PAT CAGR of 3.6%.,80
+JSWSTEEL,con,CON_08_WEAK_EPS_GROWTH,Weak 5-year EPS CAGR of 2.4%.,80
+JSWSTEEL,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 8.3%.,75
+JSWSTEEL,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of -8.5%.,85
+JSWSTEEL,pro,PRO_06_REVENUE_GROWTH,Strong 5-year revenue CAGR of 15.6%.,85
+JSWSTEEL,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.35x.,90
+KOTAKBANK,con,CON_02_LOW_ROCE,Low ROCE of 7.1%.,85
+KOTAKBANK,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 15.9%.,75
+KOTAKBANK,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of 14.4%.,85
+KOTAKBANK,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 20.4%.,85
+KOTAKBANK,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 19.3%.,85
+LICI,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of 2.6%.,85
+LICI,pro,PRO_01_STRONG_ROE,Strong ROE of 49.4%.,90
+LICI,pro,PRO_02_STRONG_ROCE,Strong ROCE of 39.1%.,90
+LICI,pro,PRO_05_POSITIVE_FCF_5Y,Free cash flow remained positive in each of the last 5 annual periods.,95
+LICI,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 73.2%.,85
+LICI,pro,PRO_10_ASSET_LIGHT,Low CapEx intensity of 3.0%.,75
+LODHA,con,CON_01_LOW_ROE,Low ROE of 8.9%.,85
+LODHA,con,CON_02_LOW_ROCE,Low ROCE of 9.8%.,85
+LODHA,con,CON_06_WEAK_REVENUE_GROWTH,Weak 5-year revenue CAGR of -2.8%.,80
+LODHA,con,CON_07_WEAK_PAT_GROWTH,Weak 5-year PAT CAGR of -1.1%.,80
+LODHA,con,CON_08_WEAK_EPS_GROWTH,Weak 5-year EPS CAGR of -5.3%.,80
+LODHA,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 28.6%.,75
+LODHA,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of -16.3%.,85
+LODHA,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.62x.,90
+LT,con,CON_12_DECLINING_OPM,Operating profit margin declined in each of the last 3 annual periods.,85
+LT,pro,PRO_01_STRONG_ROE,Strong ROE of 77.7%.,90
+LT,pro,PRO_02_STRONG_ROCE,Strong ROCE of 118.5%.,90
+LT,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.17x.,90
+LT,pro,PRO_10_ASSET_LIGHT,Low CapEx intensity of 1.0%.,75
+LT,pro,PRO_11_FCF_CONVERSION,Strong FCF conversion of 68.5%.,85
+LT,pro,PRO_12_BALANCED_DIVIDEND,Balanced dividend payout ratio of 36.0%.,75
+LTIM,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 11.0%.,75
+LTIM,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of 27.4%.,85
+LTIM,con,CON_12_DECLINING_OPM,Operating profit margin declined in each of the last 3 annual periods.,85
+LTIM,pro,PRO_01_STRONG_ROE,Strong ROE of 22.9%.,90
+LTIM,pro,PRO_02_STRONG_ROCE,Strong ROCE of 25.2%.,90
+LTIM,pro,PRO_04_STRONG_ICR,Strong interest coverage of 31.9x.,85
+LTIM,pro,PRO_05_POSITIVE_FCF_5Y,Free cash flow remained positive in each of the last 5 annual periods.,95
+LTIM,pro,PRO_06_REVENUE_GROWTH,Strong 5-year revenue CAGR of 30.3%.,85
+LTIM,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 24.8%.,85
+LTIM,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 12.2%.,85
+LTIM,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.24x.,90
+LTIM,pro,PRO_12_BALANCED_DIVIDEND,Balanced dividend payout ratio of 42.0%.,75
+M&M,con,CON_09_ACCRUAL_RISK,Low CFO/PAT ratio of -0.46x.,90
+M&M,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of -45.2%.,85
+M&M,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 15.3%.,85
+M&M,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 16.2%.,85
+MARUTI,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 8.4%.,75
+MARUTI,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of 26.5%.,85
+MARUTI,pro,PRO_03_LOW_DEBT,Very low debt-to-equity ratio of 0.00.,90
+MARUTI,pro,PRO_04_STRONG_ICR,Strong interest coverage of 117.9x.,85
+MARUTI,pro,PRO_05_POSITIVE_FCF_5Y,Free cash flow remained positive in each of the last 5 annual periods.,95
+MARUTI,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.25x.,90
+MOTHERSON,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of 9.9%.,85
+MOTHERSON,pro,PRO_05_POSITIVE_FCF_5Y,Free cash flow remained positive in each of the last 5 annual periods.,95
+MOTHERSON,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 2.51x.,90
+NAUKRI,con,CON_01_LOW_ROE,Low ROE of 2.0%.,85
+NAUKRI,con,CON_02_LOW_ROCE,Low ROCE of 2.0%.,85
+NAUKRI,con,CON_07_WEAK_PAT_GROWTH,Weak 5-year PAT CAGR of 0.1%.,80
+NAUKRI,con,CON_08_WEAK_EPS_GROWTH,Weak 5-year EPS CAGR of -2.1%.,80
+NAUKRI,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 33.6%.,75
+NAUKRI,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of -21.1%.,85
+NAUKRI,pro,PRO_03_LOW_DEBT,Very low debt-to-equity ratio of 0.01.,90
+NAUKRI,pro,PRO_04_STRONG_ICR,Strong interest coverage of 29.0x.,85
+NAUKRI,pro,PRO_06_REVENUE_GROWTH,Strong 5-year revenue CAGR of 17.1%.,85
+NAUKRI,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.18x.,90
+NAUKRI,pro,PRO_12_BALANCED_DIVIDEND,Balanced dividend payout ratio of 49.0%.,75
+NESTLEIND,con,CON_99_VALUATION_CAUTION,Latest available P/E is 55.0x; valuation should be reviewed against sector peers.,70
+NESTLEIND,pro,PRO_01_STRONG_ROE,Strong ROE of 117.8%.,90
+NESTLEIND,pro,PRO_02_STRONG_ROCE,Strong ROCE of 143.1%.,90
+NESTLEIND,pro,PRO_04_STRONG_ICR,Strong interest coverage of 41.2x.,85
+NESTLEIND,pro,PRO_05_POSITIVE_FCF_5Y,Free cash flow remained positive in each of the last 5 annual periods.,95
+NESTLEIND,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 15.4%.,85
+NESTLEIND,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.06x.,90
+NHPC,con,CON_02_LOW_ROCE,Low ROCE of 5.1%.,85
+NHPC,con,CON_06_WEAK_REVENUE_GROWTH,Weak 5-year revenue CAGR of 1.4%.,80
+NHPC,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 62.0%.,75
+NHPC,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of 20.2%.,85
+NHPC,pro,PRO_04_STRONG_ICR,Strong interest coverage of 11.2x.,85
+NHPC,pro,PRO_05_POSITIVE_FCF_5Y,Free cash flow remained positive in each of the last 5 annual periods.,95
+NHPC,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.72x.,90
+NHPC,pro,PRO_12_BALANCED_DIVIDEND,Balanced dividend payout ratio of 53.0%.,75
+NTPC,con,CON_02_LOW_ROCE,Low ROCE of 8.9%.,85
+NTPC,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 18.0%.,75
+NTPC,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of 16.8%.,85
+NTPC,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.91x.,90
+NTPC,pro,PRO_12_BALANCED_DIVIDEND,Balanced dividend payout ratio of 36.0%.,75
+ONGC,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 9.7%.,75
+ONGC,pro,PRO_04_STRONG_ICR,Strong interest coverage of 11.4x.,85
+ONGC,pro,PRO_05_POSITIVE_FCF_5Y,Free cash flow remained positive in each of the last 5 annual periods.,95
+ONGC,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.74x.,90
+ONGC,pro,PRO_12_BALANCED_DIVIDEND,Balanced dividend payout ratio of 31.0%.,75
+PFC,con,CON_02_LOW_ROCE,Low ROCE of 3.5%.,85
+PFC,con,CON_09_ACCRUAL_RISK,Low CFO/PAT ratio of -3.70x.,90
+PFC,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of -301.5%.,85
+PFC,pro,PRO_01_STRONG_ROE,Strong ROE of 26.2%.,90
+PFC,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 15.9%.,85
+PFC,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 14.9%.,85
+PIDILITIND,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 14.3%.,75
+PIDILITIND,pro,PRO_01_STRONG_ROE,Strong ROE of 20.8%.,90
+PIDILITIND,pro,PRO_02_STRONG_ROCE,Strong ROCE of 26.9%.,90
+PIDILITIND,pro,PRO_03_LOW_DEBT,Very low debt-to-equity ratio of 0.05.,90
+PIDILITIND,pro,PRO_04_STRONG_ICR,Strong interest coverage of 54.3x.,85
+PIDILITIND,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 13.6%.,85
+PIDILITIND,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.56x.,90
+PIDILITIND,pro,PRO_12_BALANCED_DIVIDEND,Balanced dividend payout ratio of 47.0%.,75
+PNB,con,CON_09_ACCRUAL_RISK,Low CFO/PAT ratio of -3.05x.,90
+PNB,pro,PRO_01_STRONG_ROE,Strong ROE of 61.3%.,90
+PNB,pro,PRO_06_REVENUE_GROWTH,Strong 5-year revenue CAGR of 15.9%.,85
+PNB,pro,PRO_10_ASSET_LIGHT,Low CapEx intensity of 1.4%.,75
+POWERGRID,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 28.6%.,75
+POWERGRID,pro,PRO_05_POSITIVE_FCF_5Y,Free cash flow remained positive in each of the last 5 annual periods.,95
+POWERGRID,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 2.39x.,90
+POWERGRID,pro,PRO_11_FCF_CONVERSION,Strong FCF conversion of 60.7%.,85
+RECLTD,con,CON_02_LOW_ROCE,Low ROCE of 9.3%.,85
+RECLTD,con,CON_05_NEGATIVE_FCF_3Y,Free cash flow remained negative for 3 consecutive annual periods.,95
+RECLTD,con,CON_09_ACCRUAL_RISK,Low CFO/PAT ratio of -4.08x.,90
+RECLTD,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of -124.4%.,85
+RECLTD,pro,PRO_01_STRONG_ROE,Strong ROE of 20.4%.,90
+RECLTD,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 19.8%.,85
+RECLTD,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 19.7%.,85
+RECLTD,pro,PRO_12_BALANCED_DIVIDEND,Balanced dividend payout ratio of 30.0%.,75
+RELIANCE,con,CON_01_LOW_ROE,Low ROE of 10.0%.,85
+RELIANCE,con,CON_02_LOW_ROCE,Low ROCE of 8.9%.,85
+RELIANCE,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 12.6%.,75
+RELIANCE,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of 27.8%.,85
+RELIANCE,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 2.01x.,90
+SBILIFE,con,CON_02_LOW_ROCE,Low ROCE of 1.1%.,85
+SBILIFE,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 23.7%.,75
+SBILIFE,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of -853.3%.,85
+SBILIFE,pro,PRO_06_REVENUE_GROWTH,Strong 5-year revenue CAGR of 24.2%.,85
+SBILIFE,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 15.38x.,90
+SBIN,con,CON_09_ACCRUAL_RISK,Low CFO/PAT ratio of 0.31x.,90
+SBIN,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of -30.1%.,85
+SBIN,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 83.4%.,85
+SBIN,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 90.4%.,85
+SBIN,pro,PRO_10_ASSET_LIGHT,Low CapEx intensity of 0.8%.,75
+SHREECEM,con,CON_01_LOW_ROE,Low ROE of 8.4%.,85
+SHREECEM,pro,PRO_03_LOW_DEBT,Very low debt-to-equity ratio of 0.08.,90
+SHREECEM,pro,PRO_04_STRONG_ICR,Strong interest coverage of 19.8x.,85
+SHREECEM,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.93x.,90
+SHRIRAMFIN,con,CON_02_LOW_ROCE,Low ROCE of 4.1%.,85
+SHRIRAMFIN,con,CON_05_NEGATIVE_FCF_3Y,Free cash flow remained negative for 3 consecutive annual periods.,95
+SHRIRAMFIN,con,CON_09_ACCRUAL_RISK,Low CFO/PAT ratio of -4.20x.,90
+SHRIRAMFIN,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of -298.0%.,85
+SHRIRAMFIN,pro,PRO_06_REVENUE_GROWTH,Strong 5-year revenue CAGR of 18.6%.,85
+SHRIRAMFIN,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 23.5%.,85
+SHRIRAMFIN,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 14.3%.,85
+SHRIRAMFIN,pro,PRO_10_ASSET_LIGHT,Low CapEx intensity of 0.7%.,75
+SIEMENS,con,CON_99_MARGIN_MONITOR,Operating profit margin is 14.0%; margin trends should be monitored.,70
+SIEMENS,pro,PRO_03_LOW_DEBT,Very low debt-to-equity ratio of 0.02.,90
+SIEMENS,pro,PRO_04_STRONG_ICR,Strong interest coverage of 67.2x.,85
+SIEMENS,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 19.9%.,85
+SIEMENS,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 19.6%.,85
+SIEMENS,pro,PRO_10_ASSET_LIGHT,Low CapEx intensity of 2.3%.,75
+SUNPHARMA,con,CON_99_VALUATION_CAUTION,Latest available P/E is 37.9x; valuation should be reviewed against sector peers.,70
+SUNPHARMA,pro,PRO_03_LOW_DEBT,Very low debt-to-equity ratio of 0.05.,90
+SUNPHARMA,pro,PRO_04_STRONG_ICR,Strong interest coverage of 58.3x.,85
+SUNPHARMA,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 24.5%.,85
+SUNPHARMA,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 29.5%.,85
+SUNPHARMA,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.26x.,90
+SUNPHARMA,pro,PRO_10_ASSET_LIGHT,Low CapEx intensity of 1.6%.,75
+SUNPHARMA,pro,PRO_11_FCF_CONVERSION,Strong FCF conversion of 87.4%.,85
+SUNPHARMA,pro,PRO_12_BALANCED_DIVIDEND,Balanced dividend payout ratio of 34.0%.,75
+TATACONSUM,con,CON_01_LOW_ROE,Low ROE of 7.6%.,85
+TATACONSUM,con,CON_02_LOW_ROCE,Low ROCE of 9.8%.,85
+TATACONSUM,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 12.6%.,75
+TATACONSUM,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of 1.1%.,85
+TATACONSUM,pro,PRO_04_STRONG_ICR,Strong interest coverage of 25.3x.,85
+TATACONSUM,pro,PRO_05_POSITIVE_FCF_5Y,Free cash flow remained positive in each of the last 5 annual periods.,95
+TATACONSUM,pro,PRO_06_REVENUE_GROWTH,Strong 5-year revenue CAGR of 16.0%.,85
+TATACONSUM,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 21.6%.,85
+TATACONSUM,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 14.9%.,85
+TATACONSUM,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.59x.,90
+TATAMOTORS,con,CON_99_VALUATION_CAUTION,Latest available P/E is 67.1x; valuation should be reviewed against sector peers.,70
+TATAMOTORS,pro,PRO_01_STRONG_ROE,Strong ROE of 37.5%.,90
+TATAMOTORS,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 2.14x.,90
+TATAMOTORS,pro,PRO_11_FCF_CONVERSION,Strong FCF conversion of 75.8%.,85
+TATAPOWER,con,CON_02_LOW_ROCE,Low ROCE of 8.1%.,85
+TATAPOWER,con,CON_10_CAPITAL_INTENSIVE,High CapEx intensity of 14.7%.,75
+TATAPOWER,pro,PRO_06_REVENUE_GROWTH,Strong 5-year revenue CAGR of 15.5%.,85
+TATAPOWER,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 2.94x.,90
+TATASTEEL,con,CON_01_LOW_ROE,Low ROE of -5.3%.,85
+TATASTEEL,con,CON_02_LOW_ROCE,Low ROCE of 6.9%.,85
+TATASTEEL,con,CON_09_ACCRUAL_RISK,Low CFO/PAT ratio of -4.13x.,90
+TATASTEEL,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of 27.2%.,85
+TATASTEEL,con,CON_12_DECLINING_OPM,Operating profit margin declined in each of the last 3 annual periods.,85
+TATASTEEL,pro,PRO_05_POSITIVE_FCF_5Y,Free cash flow remained positive in each of the last 5 annual periods.,95
+TCS,con,CON_99_VALUATION_CAUTION,Latest available P/E is 78.7x; valuation should be reviewed against sector peers.,70
+TCS,pro,PRO_01_STRONG_ROE,Strong ROE of 50.9%.,90
+TCS,pro,PRO_02_STRONG_ROCE,Strong ROCE of 60.2%.,90
+TCS,pro,PRO_03_LOW_DEBT,Very low debt-to-equity ratio of 0.09.,90
+TCS,pro,PRO_04_STRONG_ICR,Strong interest coverage of 87.1x.,85
+TCS,pro,PRO_05_POSITIVE_FCF_5Y,Free cash flow remained positive in each of the last 5 annual periods.,95
+TCS,pro,PRO_10_ASSET_LIGHT,Low CapEx intensity of 2.5%.,75
+TCS,pro,PRO_11_FCF_CONVERSION,Strong FCF conversion of 78.4%.,85
+TCS,pro,PRO_12_BALANCED_DIVIDEND,Balanced dividend payout ratio of 58.0%.,75
+TECHM,con,CON_01_LOW_ROE,Low ROE of 9.0%.,85
+TECHM,con,CON_02_LOW_ROCE,Low ROCE of 9.2%.,85
+TECHM,con,CON_07_WEAK_PAT_GROWTH,Weak 5-year PAT CAGR of -11.0%.,80
+TECHM,con,CON_08_WEAK_EPS_GROWTH,Weak 5-year EPS CAGR of -11.4%.,80
+TECHM,con,CON_12_DECLINING_OPM,Operating profit margin declined in each of the last 3 annual periods.,85
+TECHM,pro,PRO_03_LOW_DEBT,Very low debt-to-equity ratio of 0.10.,90
+TECHM,pro,PRO_04_STRONG_ICR,Strong interest coverage of 13.9x.,85
+TECHM,pro,PRO_05_POSITIVE_FCF_5Y,Free cash flow remained positive in each of the last 5 annual periods.,95
+TECHM,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 2.66x.,90
+TECHM,pro,PRO_10_ASSET_LIGHT,Low CapEx intensity of 2.5%.,75
+TECHM,pro,PRO_11_FCF_CONVERSION,Strong FCF conversion of 112.3%.,85
+TITAN,con,CON_09_ACCRUAL_RISK,Low CFO/PAT ratio of 0.48x.,90
+TITAN,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of 28.5%.,85
+TITAN,pro,PRO_01_STRONG_ROE,Strong ROE of 37.2%.,90
+TITAN,pro,PRO_06_REVENUE_GROWTH,Strong 5-year revenue CAGR of 20.9%.,85
+TITAN,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 20.3%.,85
+TITAN,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 19.5%.,85
+TITAN,pro,PRO_10_ASSET_LIGHT,Low CapEx intensity of 0.4%.,75
+TORNTPHARM,con,CON_99_VALUATION_CAUTION,Latest available P/E is 46.4x; valuation should be reviewed against sector peers.,70
+TORNTPHARM,pro,PRO_01_STRONG_ROE,Strong ROE of 24.2%.,90
+TORNTPHARM,pro,PRO_02_STRONG_ROCE,Strong ROCE of 23.5%.,90
+TORNTPHARM,pro,PRO_05_POSITIVE_FCF_5Y,Free cash flow remained positive in each of the last 5 annual periods.,95
+TORNTPHARM,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 30.6%.,85
+TORNTPHARM,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 30.4%.,85
+TORNTPHARM,pro,PRO_09_HIGH_CFO_QUALITY,Strong cash earnings quality with CFO/PAT of 1.97x.,90
+TORNTPHARM,pro,PRO_10_ASSET_LIGHT,Low CapEx intensity of 1.5%.,75
+TORNTPHARM,pro,PRO_11_FCF_CONVERSION,Strong FCF conversion of 92.2%.,85
+TORNTPHARM,pro,PRO_12_BALANCED_DIVIDEND,Balanced dividend payout ratio of 57.0%.,75
+TRENT,con,CON_99_MANUAL_RISK_REVIEW,"No major quantitative con threshold was triggered; valuation, business and qualitative risks require manual review.",65
+TRENT,pro,PRO_01_STRONG_ROE,Strong ROE of 36.3%.,90
+TRENT,pro,PRO_02_STRONG_ROCE,Strong ROCE of 22.3%.,90
+TRENT,pro,PRO_06_REVENUE_GROWTH,Strong 5-year revenue CAGR of 36.3%.,85
+TRENT,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 73.1%.,85
+TRENT,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 69.5%.,85
+TVSMOTOR,con,CON_03_HIGH_DEBT,High debt-to-equity ratio of 3.83.,90
+TVSMOTOR,con,CON_05_NEGATIVE_FCF_3Y,Free cash flow remained negative for 3 consecutive annual periods.,95
+TVSMOTOR,con,CON_09_ACCRUAL_RISK,Low CFO/PAT ratio of -0.70x.,90
+TVSMOTOR,con,CON_11_LOW_FCF_CONVERSION,Weak FCF conversion of -41.0%.,85
+TVSMOTOR,pro,PRO_01_STRONG_ROE,Strong ROE of 26.2%.,90
+TVSMOTOR,pro,PRO_07_PAT_GROWTH,Healthy 5-year PAT CAGR of 19.7%.,85
+TVSMOTOR,pro,PRO_08_EPS_GROWTH,Healthy 5-year EPS CAGR of 19.1%.,85
+TVSMOTOR,pro,PRO_10_ASSET_LIGHT,Low CapEx intensity of 2.6%.,75

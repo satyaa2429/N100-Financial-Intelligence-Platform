@@ -591,7 +591,6 @@ def compute_cash_flow_kpis(
     """Backward-compatible cash KPI function."""
 
     return compute_cashflow_kpis(
-        cashflow,
-        profit_loss,
-    )
-
+    cashflow,
+    profit_loss,
+)

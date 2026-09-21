@@ -37,6 +37,7 @@ class ScreenerEngine:
         pnl_year: str = "2024-03",
         market_cap_year: int = 2024,
     ) -> None:
+        """Initialise the screener engine and load its configuration."""
         self.db_path = Path(db_path)
         self.config_path = Path(config_path)
         self.ratio_year = ratio_year
@@ -48,10 +49,12 @@ class ScreenerEngine:
         self.presets = self._load_presets()
 
     def _load_yaml(self) -> dict[str, Any]:
+        """Load and return a YAML configuration file."""
         with self.config_path.open("r", encoding="utf-8") as file:
             return yaml.safe_load(file) or {}
 
     def _load_metrics(self) -> dict[str, dict[str, Any]]:
+        """Load configured screener metric definitions."""
         metrics = self.config.get("metrics", {})
 
         if not metrics:
@@ -80,6 +83,7 @@ class ScreenerEngine:
         return metrics
 
     def _load_presets(self) -> dict[str, dict[str, Any]]:
+        """Load configured preset screener definitions."""
         presets = self.config.get("presets", {})
 
         for preset_name, preset in presets.items():
@@ -123,13 +127,15 @@ class ScreenerEngine:
         return presets
 
     def available_metrics(self) -> list[str]:
+        """Return the configured screener metric names."""
         return list(self.metrics.keys())
 
     def available_presets(self) -> list[str]:
+        """Return the available preset screener names."""
         return list(self.presets.keys())
 
     def load_universe(self) -> pd.DataFrame:
-        """Load all 92 companies with aligned 2024 financial data."""
+        """Load companies using each company's latest available annual data."""
 
         metric_selects = []
 
@@ -152,16 +158,35 @@ class ScreenerEngine:
                 m.year AS market_cap_year,
                 r.total_debt_cr AS total_debt_cr,
                 {select_metrics}
+
             FROM companies AS c
+
             LEFT JOIN financial_ratios AS r
                 ON r.company_id = c.id
-               AND r.year = ?
+               AND r.year = (
+                    SELECT MAX(fr.year)
+                    FROM financial_ratios AS fr
+                    WHERE fr.company_id = c.id
+                      AND fr.year <> 'TTM'
+               )
+
             LEFT JOIN profitandloss AS p
                 ON p.company_id = c.id
-               AND p.year = ?
+               AND p.year = (
+                    SELECT MAX(pl.year)
+                    FROM profitandloss AS pl
+                    WHERE pl.company_id = c.id
+                      AND pl.year <> 'TTM'
+               )
+
             LEFT JOIN market_cap AS m
                 ON m.company_id = c.id
-               AND m.year = ?
+               AND m.year = (
+                    SELECT MAX(mc.year)
+                    FROM market_cap AS mc
+                    WHERE mc.company_id = c.id
+               )
+
             ORDER BY c.id
         """
 
@@ -169,11 +194,6 @@ class ScreenerEngine:
             return pd.read_sql_query(
                 query,
                 connection,
-                params=(
-                    self.ratio_year,
-                    self.pnl_year,
-                    self.market_cap_year,
-                ),
             )
 
     def screen(
@@ -285,6 +305,7 @@ class ScreenerEngine:
 
 
 def _parse_filters(raw_filters: list[str]) -> dict[str, float]:
+    """Parse command-line metric filters into numeric thresholds."""
     parsed: dict[str, float] = {}
 
     for item in raw_filters:
@@ -301,6 +322,7 @@ def _parse_filters(raw_filters: list[str]) -> dict[str, float]:
 
 
 def main() -> None:
+    """Run the command-line screener workflow."""
     parser = argparse.ArgumentParser(
         description="N100 configurable investment screener"
     )

@@ -15,6 +15,7 @@ COMPANIES = [
 
 
 def year_number(value):
+    """Extract a sortable year number from a financial-year value."""
     try:
         text = str(value).strip()
 

@@ -1,0 +1,23 @@
+D-01: PASS | nifty100.db exists; tables=13
+D-02: PASS | C:\Users\saisr\OneDrive\Desktop\BlueStock Internship\N100_Financial_Intelligence_Platform\output\load_audit.csv
+D-03: PASS | C:\Users\saisr\OneDrive\Desktop\BlueStock Internship\N100_Financial_Intelligence_Platform\output\validation_failures.csv
+D-04: PASS | C:\Users\saisr\OneDrive\Desktop\BlueStock Internship\N100_Financial_Intelligence_Platform\notebooks\exploratory_queries.sql
+D-05: PASS | financial_ratios rows=1164, KPI columns=42
+D-06: PASS | C:\Users\saisr\OneDrive\Desktop\BlueStock Internship\N100_Financial_Intelligence_Platform\output\capital_allocation.csv; companies=92; rows=1063
+D-07: PASS | C:\Users\saisr\OneDrive\Desktop\BlueStock Internship\N100_Financial_Intelligence_Platform\output\screener_output.xlsx
+D-08: PASS | C:\Users\saisr\OneDrive\Desktop\BlueStock Internship\N100_Financial_Intelligence_Platform\config\screener_config.yaml
+D-09: PASS | C:\Users\saisr\OneDrive\Desktop\BlueStock Internship\N100_Financial_Intelligence_Platform\output\peer_comparison.xlsx
+D-10: PASS | radar PNGs found=92
+D-11: PASS | app=True, dashboard pages=8
+D-12: PASS | C:\Users\saisr\OneDrive\Desktop\BlueStock Internship\N100_Financial_Intelligence_Platform\output\valuation_summary.xlsx
+D-13: PASS | C:\Users\saisr\OneDrive\Desktop\BlueStock Internship\N100_Financial_Intelligence_Platform\output\cashflow_intelligence.xlsx
+D-14: PASS | companies=92, confidence<=60 rows=0
+D-15: PASS | C:\Users\saisr\OneDrive\Desktop\BlueStock Internship\N100_Financial_Intelligence_Platform\output\analysis_parsed.csv
+D-16: PASS | tearsheets=92, below50KB=0
+D-17: PASS | sector PDFs found=11
+D-18: PASS | C:\Users\saisr\OneDrive\Desktop\BlueStock Internship\N100_Financial_Intelligence_Platform\reports\portfolio\portfolio_summary_20260920.pdf
+D-19: PASS | C:\Users\saisr\OneDrive\Desktop\BlueStock Internship\N100_Financial_Intelligence_Platform\output\cluster_labels.csv; rows=92
+D-20: PASS | api_main=True, openapi=True, postman=True
+D-21: PASS | C:\Users\saisr\OneDrive\Desktop\BlueStock Internship\N100_Financial_Intelligence_Platform\pytest_report.html; size=95549
+D-22: PASS | analyst_guide.pdf pages=12
+D-23: PENDING | Will be generated after this audit
